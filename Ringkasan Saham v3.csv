@@ -1,0 +1,811 @@
+No,Kode,NamaPerusahaan,papanPencatatan,Sektor,numSelisih,numPenutupan,numGainers,Gainers,numVolume,Volume,numNilai,Nilai,numFreq,Freq
+1,AALI,Astra Agro Lestari Tbk.,Utama,Noncyc,-75,8625,-0.86%,gainersRendah,2154300,volumeRendah,18553022500,nilaiSedang nilaiRendah,1487,freqRendah
+2,ABBA,Mahaka Media Tbk.,Pengembangan,Cyclic,-1,183,-0.54%,gainersRendah,11412300,volumeRendah,2091509500,nilaiRendah,1071,freqRendah
+3,ABDA,Asuransi Bina Dana Arta Tbk.,Pengembangan,Financials,0,6600,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+4,ABMM,ABM Investama Tbk.,Utama,Industrials,-160,3620,-4.23%,gainersRendah,7397700,volumeRendah,26986932000,nilaiSedang nilaiRendah,2480,freqRendah
+5,ACES,Ace Hardware Indonesia Tbk.,Utama,Cyclic,10,590,1.72%,gainersRendah,85946300,volumeSedang volumeRendah,49649998500,nilaiSedang nilaiRendah,5358,freqSedang freqRendah
+6,ACST,Acset Indonusa Tbk.,Utama,Infrasctructures,-2,177,-1.12%,gainersRendah,3566000,volumeRendah,634988500,nilaiRendah,249,freqRendah
+7,ADCP,Adhi Commuter Properti Tbk.,Utama,Properties & Real Estate,1,74,1.37%,gainersRendah,6672100,volumeRendah,488185000,nilaiRendah,574,freqRendah
+8,ADES,Akasha Wira International Tbk.,Pengembangan,Noncyc,50,7150,0.70%,gainersRendah,59600,volumeRendah,424350000,nilaiRendah,105,freqRendah
+9,ADHI,Adhi Karya (Persero) Tbk.,Utama,Infrasctructures,-5,550,-0.90%,gainersRendah,23983100,volumeSedang volumeRendah,13269832000,nilaiSedang nilaiRendah,1534,freqRendah
+10,ADMF,Adira Dinamika Multi Finance Tbk.,Utama,Financials,-25,8675,-0.29%,gainersRendah,134000,volumeRendah,1174500000,nilaiRendah,182,freqRendah
+11,ADMG,Polychem Indonesia Tbk,Utama,Basic Materials,0,158,0.00%,gainersRendah,1865300,volumeRendah,296688900,nilaiRendah,226,freqRendah
+12,ADMR,Adaro Minerals Indonesia Tbk.,Pengembangan,Energy,20,1765,1.15%,gainersRendah,23303200,volumeSedang volumeRendah,40940604000,nilaiSedang nilaiRendah,4908,freqSedang freqRendah
+13,ADRO,Adaro Energy Indonesia Tbk.,Utama,Energy,0,3750,0.00%,gainersRendah,78870300,volumeSedang volumeRendah,294828566000,nilaiTinggi nilaiSedang nilaiRendah,10846,freqSedang freqRendah
+14,AGAR,Asia Sejahtera Mina Tbk.,Pengembangan,Noncyc,6,304,2.01%,gainersSedang gainersRendah,8300,volumeRendah,2470400,nilaiRendah,19,freqRendah
+15,AGII,Aneka Gas Industri Tbk.,Utama,Basic Materials,-30,1970,-1.50%,gainersRendah,8425500,volumeRendah,16809376500,nilaiSedang nilaiRendah,2100,freqRendah
+16,AGRO,Bank Raya Indonesia Tbk.,Utama,Financials,-20,520,-3.70%,gainersRendah,31481600,volumeSedang volumeRendah,16390920500,nilaiSedang nilaiRendah,3174,freqSedang freqRendah
+17,AGRS,Bank IBK Indonesia Tbk.,Pengembangan,Financials,0,92,0.00%,gainersRendah,2707100,volumeRendah,250014900,nilaiRendah,185,freqRendah
+18,AHAP,Asuransi Harta Aman Pratama Tbk.,Pengembangan,Financials,-3,92,-3.16%,gainersRendah,11671800,volumeRendah,1092397600,nilaiRendah,906,freqRendah
+19,AIMS,Akbar Indo Makmur Stimec Tbk,Pengembangan,Energy,6,226,2.73%,gainersSedang gainersRendah,4800,volumeRendah,1071200,nilaiRendah,20,freqRendah
+20,AISA,FKS Food Sejahtera Tbk.,Utama,Noncyc,11,181,6.47%,gainersSedang gainersRendah,50352500,volumeSedang volumeRendah,8983752100,nilaiRendah,3777,freqSedang freqRendah
+21,AKKU,Anugerah Kagum Karya Utama Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,500,volumeRendah,25000,nilaiRendah,4,freqRendah
+22,AKPI,Argha Karya Prima Industry Tbk.,Pengembangan,Basic Materials,-45,1435,-3.04%,gainersRendah,46500,volumeRendah,68261000,nilaiRendah,57,freqRendah
+23,AKRA,AKR Corporindo Tbk.,Utama,Energy,-35,1515,-2.26%,gainersRendah,55487800,volumeSedang volumeRendah,83730152000,nilaiSedang nilaiRendah,7961,freqSedang freqRendah
+24,AKSI,Mineral Sumberdaya Mandiri Tbk.,Pengembangan,Transportation & Logistic,2,294,0.68%,gainersRendah,215200,volumeRendah,63210000,nilaiRendah,51,freqRendah
+25,ALDO,Alkindo Naratama Tbk.,Pengembangan,Basic Materials,15,860,1.78%,gainersRendah,758100,volumeRendah,655769000,nilaiRendah,332,freqRendah
+26,ALKA,Alakasa Industrindo Tbk,Pengembangan,Basic Materials,-2,288,-0.69%,gainersRendah,105200,volumeRendah,30298600,nilaiRendah,6,freqRendah
+27,ALMI,Alumindo Light Metal Industry Tbk.,Pengembangan,Basic Materials,-6,352,-1.68%,gainersRendah,40800,volumeRendah,14338000,nilaiRendah,67,freqRendah
+28,ALTO,Tri Banyan Tirta Tbk.,Utama,Noncyc,-4,156,-2.50%,gainersRendah,99400,volumeRendah,15303500,nilaiRendah,44,freqRendah
+29,AMAG,Asuransi Multi Artha Guna Tbk.,Pengembangan,Financials,0,360,0.00%,gainersRendah,36400,volumeRendah,13115400,nilaiRendah,25,freqRendah
+30,AMAN,Makmur Berkah Amanda Tbk.,Utama,Properties & Real Estate,5,715,0.70%,gainersRendah,112800,volumeRendah,80135000,nilaiRendah,15,freqRendah
+31,AMAR,Bank Amar Indonesia Tbk.,Pengembangan,Financials,-4,306,-1.29%,gainersRendah,13772400,volumeRendah,4202370400,nilaiRendah,6340,freqSedang freqRendah
+32,AMFG,Asahimas Flat Glass Tbk.,Utama,Industrials,-75,5900,-1.26%,gainersRendah,140500,volumeRendah,834590000,nilaiRendah,180,freqRendah
+33,AMIN,Ateliers Mecaniques D Indonesie Tbk.,Pengembangan,Industrials,2,134,1.52%,gainersRendah,4100,volumeRendah,552200,nilaiRendah,14,freqRendah
+34,AMMS,Agung Menjangan Mas Tbk.,Akselerasi,Noncyc,1,49,2.08%,gainersSedang gainersRendah,5782500,volumeRendah,281833000,nilaiRendah,599,freqRendah
+35,AMOR,Ashmore Asset Management Indonesia Tbk.,Pengembangan,Financials,10,1065,0.95%,gainersRendah,76400,volumeRendah,81620000,nilaiRendah,66,freqRendah
+36,AMRT,Sumber Alfaria Trijaya Tbk.,Utama,Noncyc,0,2630,0.00%,gainersRendah,27904300,volumeSedang volumeRendah,72923403000,nilaiSedang nilaiRendah,7034,freqSedang freqRendah
+37,ANDI,Andira Agro Tbk.,Pengembangan,Noncyc,0,50,0.00%,gainersRendah,1100,volumeRendah,55000,nilaiRendah,5,freqRendah
+38,ANJT,Austindo Nusantara Jaya Tbk.,Utama,Noncyc,-5,710,-0.70%,gainersRendah,2208100,volumeRendah,1568360000,nilaiRendah,380,freqRendah
+39,ANTM,Aneka Tambang Tbk.,Utama,Basic Materials,85,1915,4.64%,gainersSedang gainersRendah,87262700,volumeSedang volumeRendah,162733613000,nilaiTinggi nilaiSedang nilaiRendah,18091,freqTinggi freqSedang freqRendah
+40,APEX,Apexindo Pratama Duta Tbk.,Pengembangan,Energy,-10,338,-2.87%,gainersRendah,1320900,volumeRendah,447437200,nilaiRendah,495,freqRendah
+41,APIC,Pacific Strategic Financial Tbk.,Pengembangan,Financials,-5,1120,-0.44%,gainersRendah,3805700,volumeRendah,4258602000,nilaiRendah,498,freqRendah
+42,APII,Arita Prima Indonesia Tbk.,Pengembangan,Industrials,0,202,0.00%,gainersRendah,1250600,volumeRendah,254114400,nilaiRendah,223,freqRendah
+43,APLI,Asiaplast Industries Tbk.,Utama,Basic Materials,-10,192,-4.95%,gainersRendah,2809200,volumeRendah,534780800,nilaiRendah,492,freqRendah
+44,APLN,Agung Podomoro Land Tbk.,Utama,Properties & Real Estate,-1,162,-0.61%,gainersRendah,89496300,volumeSedang volumeRendah,14331734700,nilaiSedang nilaiRendah,3791,freqSedang freqRendah
+45,ARCI,Archi Indonesia Tbk.,Utama,Basic Materials,2,322,0.63%,gainersRendah,2507700,volumeRendah,798248000,nilaiRendah,258,freqRendah
+46,ARGO,Argo Pantes Tbk,Pengembangan,Cyclic,90,1105,8.87%,gainersSedang gainersRendah,700,volumeRendah,715000,nilaiRendah,4,freqRendah
+47,ARII,Atlas Resources Tbk.,Pengembangan,Energy,-16,284,-5.33%,gainersRendah,2362800,volumeRendah,680666400,nilaiRendah,429,freqRendah
+48,ARKA,Arkha Jayanti Persada Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,38800,volumeRendah,1940000,nilaiRendah,27,freqRendah
+49,ARKO,Arkora Hydro Tbk.,Pengembangan,Infrasctructures,0,625,0.00%,gainersRendah,19542900,volumeRendah,12098760500,nilaiRendah,1149,freqRendah
+50,ARMY,Armidian Karyatama Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+51,ARNA,Arwana Citramulia Tbk.,Utama,Industrials,-5,905,-0.55%,gainersRendah,1269300,volumeRendah,1154052500,nilaiRendah,412,freqRendah
+52,ARTA,Arthavest Tbk,Pengembangan,Cyclic,-30,2310,-1.28%,gainersRendah,12600,volumeRendah,29248000,nilaiRendah,13,freqRendah
+53,ARTI,Ratu Prabu Energi Tbk,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+54,ARTO,Bank Jago Tbk.,Pengembangan,Financials,-100,4720,-2.07%,gainersRendah,7332100,volumeRendah,34648984000,nilaiSedang nilaiRendah,5859,freqSedang freqRendah
+55,ASBI,Asuransi Bintang Tbk.,Pengembangan,Financials,-34,466,-6.80%,gainersRendah,28400,volumeRendah,13291200,nilaiRendah,34,freqRendah
+56,ASDM,Asuransi Dayin Mitra Tbk.,Utama,Financials,10,945,1.07%,gainersRendah,500,volumeRendah,470500,nilaiRendah,5,freqRendah
+57,ASGR,Astra Graphia Tbk.,Utama,Industrials,5,915,0.55%,gainersRendah,738400,volumeRendah,675271500,nilaiRendah,170,freqRendah
+58,ASHA,Cilacap Samudera Fishing Industry Tbk.,Pengembangan,Noncyc,0,142,0.00%,gainersRendah,8634300,volumeRendah,1243930900,nilaiRendah,1448,freqRendah
+59,ASII,Astra International Tbk.,Utama,Industrials,50,6425,0.78%,gainersRendah,51904700,volumeSedang volumeRendah,331012885000,nilaiTinggi nilaiSedang nilaiRendah,8912,freqSedang freqRendah
+60,ASJT,Asuransi Jasa Tania Tbk.,Utama,Financials,-2,138,-1.43%,gainersRendah,64800,volumeRendah,8908800,nilaiRendah,27,freqRendah
+61,ASLC,Autopedia Sukses Lestari Tbk.,Pengembangan,Cyclic,-6,136,-4.23%,gainersRendah,12708700,volumeRendah,1760832200,nilaiRendah,1038,freqRendah
+62,ASMI,Asuransi Maximus Graha Persada Tbk.,Utama,Financials,-2,128,-1.54%,gainersRendah,1007000,volumeRendah,130106200,nilaiRendah,47,freqRendah
+63,ASPI,Andalan Sakti Primaindo Tbk.,Pengembangan,Properties & Real Estate,-2,92,-2.13%,gainersRendah,2764900,volumeRendah,260671800,nilaiRendah,128,freqRendah
+64,ASRI,Alam Sutera Realty Tbk.,Utama,Properties & Real Estate,-4,168,-2.33%,gainersRendah,24202800,volumeSedang volumeRendah,4070544300,nilaiRendah,1498,freqRendah
+65,ASRM,Asuransi Ramayana Tbk.,Pengembangan,Financials,0,1655,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+66,ASSA,Adi Sarana Armada Tbk.,Pengembangan,Transportation & Logistic,-15,975,-1.52%,gainersRendah,7276500,volumeRendah,7100031000,nilaiRendah,2340,freqRendah
+67,ATAP,Trimitra Prawara Goldland Tbk.,Pengembangan,Properties & Real Estate,-1,95,-1.04%,gainersRendah,5579200,volumeRendah,544632200,nilaiRendah,1196,freqRendah
+68,ATIC,Anabatic Technologies Tbk.,Utama,Technology,0,400,0.00%,gainersRendah,46800,volumeRendah,18594200,nilaiRendah,10,freqRendah
+69,AUTO,Astra Otoparts Tbk.,Utama,Cyclic,15,1335,1.14%,gainersRendah,5506200,volumeRendah,7334486000,nilaiRendah,954,freqRendah
+70,AVIA,Avia Avian Tbk.,Utama,Basic Materials,10,785,1.29%,gainersRendah,16883900,volumeRendah,13037472000,nilaiRendah,597,freqRendah
+71,AXIO,Tera Data Indonusa Tbk.,Pengembangan,Technology,0,230,0.00%,gainersRendah,6888800,volumeRendah,1584538400,nilaiRendah,381,freqRendah
+72,AYLS,Agro Yasa Lestari Tbk.,Pengembangan,Basic Materials,-6,80,-6.98%,gainersRendah,1364700,volumeRendah,109543700,nilaiRendah,199,freqRendah
+73,BABP,Bank MNC Internasional Tbk.,Pengembangan,Financials,-1,103,-0.96%,gainersRendah,16485100,volumeRendah,1698655400,nilaiRendah,782,freqRendah
+74,BACA,Bank Capital Indonesia Tbk.,Pengembangan,Financials,1,133,0.76%,gainersRendah,11070600,volumeRendah,1469867500,nilaiRendah,751,freqRendah
+75,BAJA,Saranacentral Bajatama Tbk.,Pengembangan,Basic Materials,0,144,0.00%,gainersRendah,156600,volumeRendah,22623000,nilaiRendah,73,freqRendah
+76,BALI,Bali Towerindo Sentra Tbk.,Utama,Infrasctructures,25,825,3.13%,gainersSedang gainersRendah,18900,volumeRendah,15306500,nilaiRendah,40,freqRendah
+77,BANK,Bank Aladin Syariah Tbk.,Pengembangan,Financials,-30,1410,-2.08%,gainersRendah,40368000,volumeSedang volumeRendah,57334586000,nilaiSedang nilaiRendah,2704,freqSedang freqRendah
+78,BAPA,Bekasi Asri Pemula Tbk.,Utama,Properties & Real Estate,-5,129,-3.73%,gainersRendah,10522100,volumeRendah,1368783800,nilaiRendah,1382,freqRendah
+79,BAPI,Bhakti Agung Propertindo Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,5200,volumeRendah,260000,nilaiRendah,3,freqRendah
+80,BATA,Sepatu Bata Tbk.,Utama,Cyclic,16,484,3.42%,gainersSedang gainersRendah,1300,volumeRendah,635600,nilaiRendah,5,freqRendah
+81,BAUT,Mitra Angkasa Sejahtera Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,669700,volumeRendah,33485000,nilaiRendah,54,freqRendah
+82,BAYU,Bayu Buana Tbk,Pengembangan,Cyclic,-10,1140,-0.87%,gainersRendah,200,volumeRendah,228000,nilaiRendah,2,freqRendah
+83,BBCA,Bank Central Asia Tbk.,Utama,Financials,-25,8775,-0.28%,gainersRendah,69153000,volumeSedang volumeRendah,604463725000,nilaiTinggi nilaiSedang nilaiRendah,14069,freqSedang freqRendah
+84,BBHI,Allo Bank Indonesia Tbk.,Pengembangan,Financials,50,2180,2.35%,gainersSedang gainersRendah,1389800,volumeRendah,2947329000,nilaiRendah,811,freqRendah
+85,BBKP,Bank KB Bukopin Tbk.,Utama,Financials,0,131,0.00%,gainersRendah,60127500,volumeSedang volumeRendah,7892374400,nilaiRendah,1960,freqRendah
+86,BBLD,Buana Finance Tbk.,Pengembangan,Financials,30,610,5.17%,gainersSedang gainersRendah,7300,volumeRendah,4317000,nilaiRendah,28,freqRendah
+87,BBMD,Bank Mestika Dharma Tbk.,Utama,Financials,0,2010,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+88,BBNI,Bank Negara Indonesia (Persero) Tbk.,Utama,Financials,-25,9275,-0.27%,gainersRendah,13306200,volumeRendah,123284080000,nilaiSedang nilaiRendah,4860,freqSedang freqRendah
+89,BBRI,Bank Rakyat Indonesia (Persero) Tbk.,Utama,Financials,0,4650,0.00%,gainersRendah,73008300,volumeSedang volumeRendah,338212737000,nilaiTinggi nilaiSedang nilaiRendah,8948,freqSedang freqRendah
+90,BBRM,Pelayaran Nasional Bina Buana Raya Tbk.,Utama,Energy,0,52,0.00%,gainersRendah,1096000,volumeRendah,58071000,nilaiRendah,48,freqRendah
+91,BBSI,Krom Bank Indonesia Tbk.,Pengembangan,Financials,-150,4220,-3.43%,gainersRendah,8600,volumeRendah,37230000,nilaiRendah,11,freqRendah
+92,BBSS,Bumi Benowo Sukses Sejahtera Tbk.,Pengembangan,Properties & Real Estate,0,69,0.00%,gainersRendah,4322900,volumeRendah,298904000,nilaiRendah,123,freqRendah
+93,BBTN,Bank Tabungan Negara (Persero) Tbk.,Utama,Financials,10,1535,0.66%,gainersRendah,6701400,volumeRendah,10181154000,nilaiRendah,1817,freqRendah
+94,BBYB,Bank Neo Commerce Tbk.,Utama,Financials,5,830,0.61%,gainersRendah,11513800,volumeRendah,9502651500,nilaiRendah,1979,freqRendah
+95,BCAP,MNC Kapital Indonesia Tbk.,Utama,Financials,0,102,0.00%,gainersRendah,20971000,volumeRendah,2148303800,nilaiRendah,872,freqRendah
+96,BCIC,Bank JTrust Indonesia Tbk.,Pengembangan,Financials,-2,134,-1.47%,gainersRendah,917400,volumeRendah,125384300,nilaiRendah,187,freqRendah
+97,BCIP,Bumi Citra Permai Tbk.,Pengembangan,Properties & Real Estate,0,62,0.00%,gainersRendah,4241800,volumeRendah,267101100,nilaiRendah,172,freqRendah
+98,BDMN,Bank Danamon Indonesia Tbk.,Utama,Financials,-90,3050,-2.87%,gainersRendah,15326500,volumeRendah,47089023000,nilaiSedang nilaiRendah,6413,freqSedang freqRendah
+99,BEBS,Berkah Beton Sadaya Tbk.,Pengembangan,Basic Materials,-200,4100,-4.65%,gainersRendah,17740700,volumeRendah,73536444000,nilaiSedang nilaiRendah,1247,freqRendah
+100,BEEF,Estika Tata Tiara Tbk.,Pengembangan,Noncyc,1,58,1.75%,gainersRendah,552500,volumeRendah,31589900,nilaiRendah,86,freqRendah
+101,BEKS,Bank Pembangunan Daerah Banten Tbk.,Pengembangan,Financials,0,50,0.00%,gainersRendah,37800,volumeRendah,1890000,nilaiRendah,34,freqRendah
+102,BELL,Trisula Textile Industries Tbk.,Pengembangan,Cyclic,-5,130,-3.70%,gainersRendah,64080800,volumeSedang volumeRendah,8561177700,nilaiRendah,5473,freqSedang freqRendah
+103,BESS,Batulicin Nusantara Maritim Tbk.,Pengembangan,Energy,-4,200,-1.96%,gainersRendah,476700,volumeRendah,96880200,nilaiRendah,207,freqRendah
+104,BEST,Bekasi Fajar Industrial Estate Tbk.,Utama,Properties & Real Estate,-2,133,-1.48%,gainersRendah,29793800,volumeSedang volumeRendah,3972800000,nilaiRendah,2117,freqRendah
+105,BFIN,BFI Finance  Indonesia Tbk.,Utama,Financials,-20,1090,-1.80%,gainersRendah,9888200,volumeRendah,10841343000,nilaiRendah,1944,freqRendah
+106,BGTG,Bank Ganesha Tbk.,Pengembangan,Financials,1,100,1.01%,gainersRendah,6463300,volumeRendah,643290400,nilaiRendah,543,freqRendah
+107,BHAT,Bhakti Multi Artha Tbk.,Pengembangan,Financials,0,890,0.00%,gainersRendah,131943500,volumeSedang volumeRendah,117252588000,nilaiSedang nilaiRendah,1349,freqRendah
+108,BHIT,MNC Asia Holding Tbk.,Utama,Industrials,-1,61,-1.61%,gainersRendah,60132900,volumeSedang volumeRendah,3699669200,nilaiRendah,1113,freqRendah
+109,BIKA,Binakarya Jaya Abadi Tbk.,Pengembangan,Properties & Real Estate,-3,121,-2.42%,gainersRendah,17000,volumeRendah,2065300,nilaiRendah,13,freqRendah
+110,BIKE,Sepeda Bersama Indonesia Tbk.,Pengembangan,Cyclic,0,236,0.00%,gainersRendah,760100,volumeRendah,177902200,nilaiRendah,227,freqRendah
+111,BIMA,Primarindo Asia Infrastructure Tbk.,Pengembangan,Cyclic,-14,208,-6.31%,gainersRendah,6043300,volumeRendah,1297426200,nilaiRendah,959,freqRendah
+112,BINA,Bank Ina Perdana Tbk.,Utama,Financials,-30,3850,-0.77%,gainersRendah,81700,volumeRendah,314340000,nilaiRendah,53,freqRendah
+113,BINO,Perma Plasindo Tbk.,Pengembangan,Industrials,-1,132,-0.75%,gainersRendah,1404100,volumeRendah,185422100,nilaiRendah,314,freqRendah
+114,BIPI,Astrindo Nusantara Infrastruktur Tbk.,Pengembangan,Energy,2,133,1.53%,gainersRendah,991874600,volumeTinggi volumeSedang volumeRendah,131781145600,nilaiSedang nilaiRendah,6035,freqSedang freqRendah
+115,BIPP,Bhuwanatala Indah Permai Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,487900,volumeRendah,24409800,nilaiRendah,31,freqRendah
+116,BIRD,Blue Bird Tbk.,Utama,Transportation & Logistic,80,1645,5.11%,gainersSedang gainersRendah,8683600,volumeRendah,13948530000,nilaiSedang nilaiRendah,2306,freqRendah
+117,BISI,BISI International Tbk.,Utama,Noncyc,35,1600,2.24%,gainersSedang gainersRendah,1140400,volumeRendah,1786390000,nilaiRendah,251,freqRendah
+118,BJBR,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.,Utama,Financials,-5,1385,-0.36%,gainersRendah,2267000,volumeRendah,3138369500,nilaiRendah,945,freqRendah
+119,BJTM,Bank Pembangunan Daerah Jawa Timur Tbk.,Utama,Financials,0,700,0.00%,gainersRendah,2285800,volumeRendah,1603920000,nilaiRendah,728,freqRendah
+120,BKDP,Bukit Darmo Property Tbk,Pengembangan,Properties & Real Estate,-2,90,-2.17%,gainersRendah,2656900,volumeRendah,237276100,nilaiRendah,552,freqRendah
+121,BKSL,Sentul City Tbk.,Utama,Properties & Real Estate,1,51,2.00%,gainersSedang gainersRendah,25179700,volumeSedang volumeRendah,1261335100,nilaiRendah,401,freqRendah
+122,BKSW,Bank QNB Indonesia Tbk.,Pengembangan,Financials,1,104,0.97%,gainersRendah,718500,volumeRendah,74366800,nilaiRendah,89,freqRendah
+123,BLTA,Berlian Laju Tanker Tbk,Utama,Transportation & Logistic,0,50,0.00%,gainersRendah,2700,volumeRendah,135000,nilaiRendah,5,freqRendah
+124,BLTZ,Graha Layar Prima Tbk.,Pengembangan,Cyclic,0,2150,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+125,BLUE,Berkah Prima Perkasa Tbk.,Pengembangan,Industrials,-4,294,-1.34%,gainersRendah,169900,volumeRendah,50411400,nilaiRendah,80,freqRendah
+126,BMAS,Bank Maspion Indonesia Tbk.,Pengembangan,Financials,25,1305,1.95%,gainersRendah,5600,volumeRendah,7239000,nilaiRendah,17,freqRendah
+127,BMHS,Bundamedik Tbk.,Utama,Healthcare,-4,460,-0.86%,gainersRendah,2274900,volumeRendah,1044190000,nilaiRendah,1072,freqRendah
+128,BMRI,Bank Mandiri (Persero) Tbk.,Utama,Financials,-25,10150,-0.25%,gainersRendah,30745000,volumeSedang volumeRendah,309562462500,nilaiTinggi nilaiSedang nilaiRendah,7434,freqSedang freqRendah
+129,BMSR,Bintang Mitra Semestaraya Tbk,Utama,Basic Materials,-55,775,-6.63%,gainersRendah,1049900,volumeRendah,831036500,nilaiRendah,254,freqRendah
+130,BMTR,Global Mediacom Tbk.,Utama,Industrials,-12,302,-3.82%,gainersRendah,89083700,volumeSedang volumeRendah,27067808200,nilaiSedang nilaiRendah,3621,freqSedang freqRendah
+131,BNBA,Bank Bumi Arta Tbk.,Utama,Financials,10,1490,0.68%,gainersRendah,294700,volumeRendah,434056000,nilaiRendah,102,freqRendah
+132,BNBR,Bakrie & Brothers Tbk,Pengembangan,Industrials,-2,68,-2.86%,gainersRendah,284095700,volumeSedang volumeRendah,19648942500,nilaiSedang nilaiRendah,3899,freqSedang freqRendah
+133,BNGA,Bank CIMB Niaga Tbk.,Utama,Financials,0,1135,0.00%,gainersRendah,3993700,volumeRendah,4534189500,nilaiRendah,672,freqRendah
+134,BNII,Bank Maybank Indonesia Tbk.,Utama,Financials,-2,246,-0.81%,gainersRendah,542400,volumeRendah,133306800,nilaiRendah,329,freqRendah
+135,BNLI,Bank Permata Tbk.,Utama,Financials,-35,1180,-2.88%,gainersRendah,284100,volumeRendah,330660500,nilaiRendah,203,freqRendah
+136,BOBA,Formosa Ingredient Factory Tbk.,Pengembangan,Noncyc,2,193,1.05%,gainersRendah,50100,volumeRendah,9543700,nilaiRendah,41,freqRendah
+137,BOGA,Bintang Oto Global Tbk.,Pengembangan,Cyclic,-5,1360,-0.37%,gainersRendah,92044500,volumeSedang volumeRendah,124991599500,nilaiSedang nilaiRendah,939,freqRendah
+138,BOLA,Bali Bintang Sejahtera Tbk.,Pengembangan,Cyclic,-4,250,-1.57%,gainersRendah,721600,volumeRendah,178640800,nilaiRendah,260,freqRendah
+139,BOLT,Garuda Metalindo Tbk.,Pengembangan,Cyclic,-5,705,-0.70%,gainersRendah,5700,volumeRendah,3990500,nilaiRendah,7,freqRendah
+140,BOSS,Borneo Olah Sarana Sukses Tbk.,Pengembangan,Energy,1,62,1.64%,gainersRendah,9817100,volumeRendah,599019000,nilaiRendah,504,freqRendah
+141,BPFI,Woori Finance Indonesia Tbk.,Pengembangan,Financials,0,650,0.00%,gainersRendah,2200,volumeRendah,1420000,nilaiRendah,4,freqRendah
+142,BPII,Batavia Prosperindo Internasional Tbk.,Pengembangan,Financials,0,10800,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+143,BPTR,Batavia Prosperindo Trans Tbk.,Utama,Transportation & Logistic,-18,242,-6.92%,gainersRendah,5946400,volumeRendah,1472184000,nilaiRendah,1023,freqRendah
+144,BRAM,Indo Kordsa Tbk.,Utama,Cyclic,-75,8400,-0.88%,gainersRendah,2600,volumeRendah,21505000,nilaiRendah,9,freqRendah
+145,BRIS,Bank Syariah Indonesia Tbk.,Utama,Financials,5,1395,0.36%,gainersRendah,8192600,volumeRendah,11368724500,nilaiRendah,2434,freqRendah
+146,BRMS,Bumi Resources Minerals Tbk.,Pengembangan,Basic Materials,0,173,0.00%,gainersRendah,351438200,volumeTinggi volumeSedang volumeRendah,59517931600,nilaiSedang nilaiRendah,7734,freqSedang freqRendah
+147,BRNA,Berlina Tbk.,Pengembangan,Basic Materials,0,1225,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+148,BRPT,Barito Pacific Tbk.,Utama,Basic Materials,-5,820,-0.61%,gainersRendah,109959100,volumeSedang volumeRendah,89145962000,nilaiSedang nilaiRendah,8818,freqSedang freqRendah
+149,BSDE,Bumi Serpong Damai Tbk.,Utama,Properties & Real Estate,-5,915,-0.54%,gainersRendah,7798600,volumeRendah,7118718000,nilaiRendah,956,freqRendah
+150,BSIM,Bank Sinarmas Tbk.,Utama,Financials,15,650,2.36%,gainersSedang gainersRendah,599100,volumeRendah,407089500,nilaiRendah,285,freqRendah
+151,BSML,Bintang Samudera Mandiri Lines Tbk.,Pengembangan,Energy,-5,595,-0.83%,gainersRendah,3185100,volumeRendah,1941460000,nilaiRendah,946,freqRendah
+152,BSSR,Baramulti Suksessarana Tbk.,Pengembangan,Energy,-40,4140,-0.96%,gainersRendah,5593300,volumeRendah,22554894000,nilaiSedang nilaiRendah,3163,freqSedang freqRendah
+153,BSWD,Bank Of India Indonesia Tbk.,Pengembangan,Financials,0,1375,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+154,BTEK,Bumi Teknokultura Unggul Tbk,Pengembangan,Noncyc,0,50,0.00%,gainersRendah,100,volumeRendah,5000,nilaiRendah,1,freqRendah
+155,BTEL,Bakrie Telecom Tbk.,Pengembangan,Infrasctructures,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+156,BTON,Betonjaya Manunggal Tbk.,Pengembangan,Basic Materials,-12,424,-2.75%,gainersRendah,22600,volumeRendah,9536800,nilaiRendah,19,freqRendah
+157,BTPN,Bank BTPN Tbk.,Utama,Financials,-150,2670,-5.32%,gainersRendah,224800,volumeRendah,613418000,nilaiRendah,194,freqRendah
+158,BTPS,Bank BTPN Syariah Tbk.,Utama,Financials,-80,3230,-2.42%,gainersRendah,6908200,volumeRendah,22702450000,nilaiSedang nilaiRendah,3739,freqSedang freqRendah
+159,BUAH,Segar Kumala Indonesia Tbk.,Pengembangan,Noncyc,10,685,1.48%,gainersRendah,2519800,volumeRendah,1716166000,nilaiRendah,146,freqRendah
+160,BUDI,Budi Starch & Sweetener Tbk.,Utama,Noncyc,-6,214,-2.73%,gainersRendah,819700,volumeRendah,175253800,nilaiRendah,187,freqRendah
+161,BUKA,Bukalapak.com Tbk.,Pengembangan,Technology,4,284,1.43%,gainersRendah,215531500,volumeSedang volumeRendah,60710778400,nilaiSedang nilaiRendah,5757,freqSedang freqRendah
+162,BUKK,Bukaka Teknik Utama Tbk.,Pengembangan,Infrasctructures,0,1065,0.00%,gainersRendah,100,volumeRendah,106500,nilaiRendah,1,freqRendah
+163,BULL,Buana Lintas Lautan Tbk.,Pengembangan,Energy,-3,155,-1.90%,gainersRendah,330879500,volumeTinggi volumeSedang volumeRendah,51503025600,nilaiSedang nilaiRendah,3640,freqSedang freqRendah
+164,BUMI,Bumi Resources Tbk.,Pengembangan,Energy,-7,173,-3.89%,gainersRendah,3632315800,volumeTinggi volumeSedang volumeRendah,630233670600,nilaiTinggi nilaiSedang nilaiRendah,28824,freqTinggi freqSedang freqRendah
+165,BUVA,Bukit Uluwatu Villa Tbk.,Pengembangan,Cyclic,0,60,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+166,BVIC,Bank Victoria International Tbk.,Utama,Financials,-1,132,-0.75%,gainersRendah,10038600,volumeRendah,1318805400,nilaiRendah,762,freqRendah
+167,BWPT,Eagle High Plantations Tbk.,Utama,Noncyc,0,69,0.00%,gainersRendah,12010300,volumeRendah,829028400,nilaiRendah,436,freqRendah
+168,BYAN,Bayan Resources Tbk.,Utama,Energy,0,72900,0.00%,gainersRendah,11000,volumeRendah,801457500,nilaiRendah,52,freqRendah
+169,CAKK,Cahayaputra Asa Keramik Tbk.,Pengembangan,Industrials,2,228,0.88%,gainersRendah,24964800,volumeSedang volumeRendah,5661374800,nilaiRendah,2497,freqRendah
+170,CAMP,Campina Ice Cream Industry Tbk.,Utama,Noncyc,0,292,0.00%,gainersRendah,251400,volumeRendah,73140600,nilaiRendah,101,freqRendah
+171,CANI,Capitol Nusantara Indonesia Tbk.,Pengembangan,Energy,2,80,2.56%,gainersSedang gainersRendah,4700,volumeRendah,375600,nilaiRendah,16,freqRendah
+172,CARE,Metro Healthcare Indonesia Tbk.,Pengembangan,Healthcare,-12,484,-2.42%,gainersRendah,325993900,volumeTinggi volumeSedang volumeRendah,160185452600,nilaiSedang nilaiRendah,1701,freqRendah
+173,CARS,Industri dan Perdagangan Bintraco Dharma Tbk.,Utama,Cyclic,5,90,5.88%,gainersSedang gainersRendah,328229200,volumeTinggi volumeSedang volumeRendah,29030050700,nilaiSedang nilaiRendah,4564,freqSedang freqRendah
+174,CASA,Capital Financial Indonesia Tbk.,Pengembangan,Financials,-5,755,-0.66%,gainersRendah,148301100,volumeSedang volumeRendah,110935960500,nilaiSedang nilaiRendah,943,freqRendah
+175,CASH,Cashlez Worldwide Indonesia Tbk.,Akselerasi,Technology,5,151,3.42%,gainersSedang gainersRendah,3803300,volumeRendah,575472000,nilaiRendah,167,freqRendah
+176,CASS,Cardig Aero Services Tbk.,Pengembangan,Infrasctructures,-6,412,-1.44%,gainersRendah,95300,volumeRendah,39260200,nilaiRendah,30,freqRendah
+177,CBMF,Cahaya Bintang Medan Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,260600,volumeRendah,13030000,nilaiRendah,10,freqRendah
+178,CCSI,Communication Cable Systems Indonesia Tbk.,Pengembangan,Industrials,10,690,1.47%,gainersRendah,317000,volumeRendah,211048500,nilaiRendah,93,freqRendah
+179,CEKA,Wilmar Cahaya Indonesia Tbk.,Utama,Noncyc,50,1975,2.60%,gainersSedang gainersRendah,28400,volumeRendah,56020000,nilaiRendah,31,freqRendah
+180,CENT,Centratama Telekomunikasi Indonesia Tbk.,Pengembangan,Infrasctructures,-5,136,-3.55%,gainersRendah,5877000,volumeRendah,793101900,nilaiRendah,616,freqRendah
+181,CFIN,Clipan Finance Indonesia Tbk.,Utama,Financials,-22,370,-5.61%,gainersRendah,26986600,volumeSedang volumeRendah,10023830200,nilaiRendah,1658,freqRendah
+182,CHEM,Chemstar Indonesia Tbk.,Pengembangan,Basic Materials,-5,105,-4.55%,gainersRendah,14810200,volumeRendah,1597981100,nilaiRendah,1094,freqRendah
+183,CINT,Chitose Internasional Tbk.,Pengembangan,Cyclic,0,222,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+184,CITA,Cita Mineral Investindo Tbk.,Pengembangan,Basic Materials,0,2940,0.00%,gainersRendah,2500,volumeRendah,7268000,nilaiRendah,10,freqRendah
+185,CITY,Natura City Developments Tbk.,Utama,Properties & Real Estate,0,146,0.00%,gainersRendah,3300,volumeRendah,481800,nilaiRendah,7,freqRendah
+186,CLAY,Citra Putra Realty Tbk.,Pengembangan,Cyclic,-70,980,-6.67%,gainersRendah,33700,volumeRendah,34773500,nilaiRendah,80,freqRendah
+187,CLEO,Sariguna Primatirta Tbk.,Utama,Noncyc,-45,660,-6.38%,gainersRendah,27741000,volumeSedang volumeRendah,18815031000,nilaiSedang nilaiRendah,1837,freqRendah
+188,CLPI,Colorpak Indonesia Tbk.,Pengembangan,Basic Materials,-10,930,-1.06%,gainersRendah,37600,volumeRendah,35154000,nilaiRendah,46,freqRendah
+189,CMNP,Citra Marga Nusaphala Persada Tbk.,Utama,Infrasctructures,-120,1770,-6.35%,gainersRendah,166000,volumeRendah,293158500,nilaiRendah,128,freqRendah
+190,CMNT,Cemindo Gemilang Tbk.,Utama,Basic Materials,0,875,0.00%,gainersRendah,46339100,volumeSedang volumeRendah,40189538000,nilaiSedang nilaiRendah,1284,freqRendah
+191,CMPP,AirAsia Indonesia Tbk.,Pengembangan,Transportation & Logistic,0,220,0.00%,gainersRendah,370100,volumeRendah,81346400,nilaiRendah,104,freqRendah
+192,CMRY,Cisarua Mountain Dairy Tbk.,Utama,Noncyc,-90,4710,-1.88%,gainersRendah,370500,volumeRendah,1756887000,nilaiRendah,738,freqRendah
+193,CNKO,Exploitasi Energi Indonesia Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,6000,volumeRendah,300000,nilaiRendah,2,freqRendah
+194,CNTX,Century Textile Industry Tbk.,Pengembangan,Cyclic,0,292,0.00%,gainersRendah,900,volumeRendah,262800,nilaiRendah,5,freqRendah
+195,COAL,Black Diamond Resources Tbk.,Pengembangan,Energy,-6,224,-2.61%,gainersRendah,12132900,volumeRendah,2730775800,nilaiRendah,2223,freqRendah
+196,COCO,Wahana Interfood Nusantara Tbk.,Pengembangan,Noncyc,-2,266,-0.75%,gainersRendah,982000,volumeRendah,273551800,nilaiRendah,523,freqRendah
+197,COWL,Cowell Development Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+198,CPIN,Charoen Pokphand Indonesia Tbk,Utama,Noncyc,50,5800,0.87%,gainersRendah,5471400,volumeRendah,31289235000,nilaiSedang nilaiRendah,2596,freqRendah
+199,CPRI,Capri Nusa Satu Properti Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,200,volumeRendah,10000,nilaiRendah,1,freqRendah
+200,CPRO,Central Proteina Prima Tbk.,Pengembangan,Noncyc,-1,59,-1.67%,gainersRendah,31744200,volumeSedang volumeRendah,1875295800,nilaiRendah,805,freqRendah
+201,CRAB,Toba Surimi Industries Tbk.,Pengembangan,Noncyc,0,210,0.00%,gainersRendah,8749400,volumeRendah,1820684200,nilaiRendah,231,freqRendah
+202,CSAP,Catur Sentosa Adiprana Tbk.,Utama,Cyclic,30,810,3.85%,gainersSedang gainersRendah,1417500,volumeRendah,1102908000,nilaiRendah,378,freqRendah
+203,CSIS,Cahayasakti Investindo Sukses Tbk.,Pengembangan,Properties & Real Estate,-1,75,-1.32%,gainersRendah,4352400,volumeRendah,331686100,nilaiRendah,1991,freqRendah
+204,CSMI,Cipta Selera Murni Tbk.,Pengembangan,Cyclic,0,3150,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+205,CSRA,Cisadane Sawit Raya Tbk.,Utama,Noncyc,5,620,0.81%,gainersRendah,283400,volumeRendah,174906500,nilaiRendah,70,freqRendah
+206,CTBN,Citra Tubindo Tbk.,Utama,Basic Materials,110,1665,7.07%,gainersSedang gainersRendah,4700,volumeRendah,7018500,nilaiRendah,12,freqRendah
+207,CTRA,Ciputra Development Tbk.,Utama,Properties & Real Estate,0,920,0.00%,gainersRendah,5681000,volumeRendah,5235044500,nilaiRendah,7992,freqSedang freqRendah
+208,CTTH,Citatah Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,3300,volumeRendah,165000,nilaiRendah,3,freqRendah
+209,DADA,Diamond Citra Propertindo Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,100,volumeRendah,5000,nilaiRendah,1,freqRendah
+210,DART,Duta Anggada Realty Tbk.,Utama,Properties & Real Estate,-2,184,-1.08%,gainersRendah,4200,volumeRendah,758900,nilaiRendah,19,freqRendah
+211,DAYA,Duta Intidaya Tbk.,Pengembangan,Noncyc,2,226,0.89%,gainersRendah,7900,volumeRendah,1771800,nilaiRendah,9,freqRendah
+212,DCII,DCI Indonesia Tbk.,Pengembangan,Technology,0,36825,0.00%,gainersRendah,100,volumeRendah,3682500,nilaiRendah,1,freqRendah
+213,DEAL,Dewata Freightinternational Tbk.,Pengembangan,Transportation & Logistic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+214,DEFI,Danasupra Erapacific Tbk.,Pengembangan,Financials,0,1455,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+215,DEPO,Caturkarda Depo Bangunan Tbk.,Utama,Cyclic,0,442,0.00%,gainersRendah,16000,volumeRendah,7033400,nilaiRendah,23,freqRendah
+216,DEWA,Darma Henwa Tbk,Utama,Energy,-1,58,-1.69%,gainersRendah,186353600,volumeSedang volumeRendah,10673537200,nilaiRendah,2952,freqSedang freqRendah
+217,DEWI,Dewi Shri Farmindo Tbk.,Pengembangan,Noncyc,10,246,4.24%,gainersSedang gainersRendah,64992300,volumeSedang volumeRendah,15573900600,nilaiSedang nilaiRendah,5752,freqSedang freqRendah
+218,DFAM,Dafam Property Indonesia Tbk.,Pengembangan,Cyclic,2,136,1.49%,gainersRendah,110087700,volumeSedang volumeRendah,15531118200,nilaiSedang nilaiRendah,10669,freqSedang freqRendah
+219,DGIK,Nusa Konstruksi Enjiniring Tbk.,Utama,Infrasctructures,-1,110,-0.90%,gainersRendah,23638800,volumeSedang volumeRendah,2599872800,nilaiRendah,830,freqRendah
+220,DGNS,Diagnos Laboratorium Utama Tbk.,Pengembangan,Healthcare,6,278,2.21%,gainersSedang gainersRendah,1509300,volumeRendah,417358200,nilaiRendah,300,freqRendah
+221,DIGI,Arkadia Digital Media Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,144500,volumeRendah,7225000,nilaiRendah,14,freqRendah
+222,DILD,Intiland Development Tbk.,Utama,Properties & Real Estate,-5,176,-2.76%,gainersRendah,13891000,volumeRendah,2436395900,nilaiRendah,1366,freqRendah
+223,DIVA,Distribusi Voucher Nusantara Tbk.,Pengembangan,Technology,-50,995,-4.78%,gainersRendah,37700,volumeRendah,37619000,nilaiRendah,56,freqRendah
+224,DKFT,Central Omega Resources Tbk.,Pengembangan,Basic Materials,1,120,0.84%,gainersRendah,3383000,volumeRendah,405493100,nilaiRendah,462,freqRendah
+225,DLTA,Delta Djakarta Tbk.,Utama,Noncyc,10,3890,0.26%,gainersRendah,770300,volumeRendah,2989917000,nilaiRendah,117,freqRendah
+226,DMAS,Puradelta Lestari Tbk.,Utama,Properties & Real Estate,-2,178,-1.11%,gainersRendah,144726600,volumeSedang volumeRendah,25997212300,nilaiSedang nilaiRendah,6962,freqSedang freqRendah
+227,DMMX,Digital Mediatama Maxima Tbk.,Pengembangan,Technology,-20,1070,-1.83%,gainersRendah,1368600,volumeRendah,1439163000,nilaiRendah,648,freqRendah
+228,DMND,Diamond Food Indonesia Tbk.,Utama,Noncyc,-5,815,-0.61%,gainersRendah,7900,volumeRendah,6383000,nilaiRendah,10,freqRendah
+229,DNAR,Bank Oke Indonesia Tbk.,Utama,Financials,-4,159,-2.45%,gainersRendah,1131500,volumeRendah,179745900,nilaiRendah,257,freqRendah
+230,DNET,Indoritel Makmur Internasional Tbk.,Pengembangan,Financials,0,3750,0.00%,gainersRendah,1700,volumeRendah,6368000,nilaiRendah,8,freqRendah
+231,DOID,Delta Dunia Makmur Tbk.,Utama,Energy,-10,386,-2.53%,gainersRendah,70939600,volumeSedang volumeRendah,27601077200,nilaiSedang nilaiRendah,2841,freqSedang freqRendah
+232,DPNS,Duta Pertiwi Nusantara Tbk.,Utama,Basic Materials,-6,400,-1.48%,gainersRendah,418800,volumeRendah,165000200,nilaiRendah,143,freqRendah
+233,DPUM,Dua Putra Utama Makmur Tbk.,Pengembangan,Noncyc,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+234,DRMA,Dharma Polimetal Tbk.,Utama,Cyclic,-5,645,-0.77%,gainersRendah,26566200,volumeSedang volumeRendah,17215453000,nilaiSedang nilaiRendah,692,freqRendah
+235,DSFI,Dharma Samudera Fishing Industries Tbk.,Utama,Noncyc,0,90,0.00%,gainersRendah,2184300,volumeRendah,194783400,nilaiRendah,208,freqRendah
+236,DSNG,Dharma Satya Nusantara Tbk.,Utama,Noncyc,-5,590,-0.84%,gainersRendah,18169900,volumeRendah,10735632000,nilaiRendah,1410,freqRendah
+237,DSSA,Dian Swastatika Sentosa Tbk,Utama,Energy,0,39000,0.00%,gainersRendah,100,volumeRendah,3900000,nilaiRendah,1,freqRendah
+238,DUCK,Jaya Bersama Indo Tbk.,Pengembangan,Cyclic,0,176,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+239,DUTI,Duta Pertiwi Tbk,Pengembangan,Properties & Real Estate,-10,3960,-0.25%,gainersRendah,1200,volumeRendah,4752000,nilaiRendah,1,freqRendah
+240,DVLA,Darya-Varia Laboratoria Tbk.,Utama,Healthcare,-10,2480,-0.40%,gainersRendah,10300,volumeRendah,25507000,nilaiRendah,39,freqRendah
+241,DWGL,Dwi Guna Laksana Tbk.,Pengembangan,Energy,-2,210,-0.94%,gainersRendah,11300,volumeRendah,2407000,nilaiRendah,33,freqRendah
+242,DYAN,Dyandra Media International Tbk.,Utama,Industrials,3,99,3.13%,gainersSedang gainersRendah,22935200,volumeSedang volumeRendah,2281305400,nilaiRendah,1056,freqRendah
+243,EAST,Eastparc Hotel Tbk.,Pengembangan,Cyclic,-2,99,-1.98%,gainersRendah,2623800,volumeRendah,261842300,nilaiRendah,337,freqRendah
+244,ECII,Electronic City Indonesia Tbk.,Pengembangan,Cyclic,0,472,0.00%,gainersRendah,17800,volumeRendah,8581600,nilaiRendah,37,freqRendah
+245,EDGE,Indointernet Tbk.,Pengembangan,Technology,125,20600,0.61%,gainersRendah,2600,volumeRendah,52700000,nilaiRendah,15,freqRendah
+246,EKAD,Ekadharma International Tbk.,Utama,Basic Materials,2,274,0.74%,gainersRendah,633100,volumeRendah,174134400,nilaiRendah,160,freqRendah
+247,ELPI,Pelayaran Nasional Ekalya Purnamasari Tbk.,Utama,Transportation & Logistic,6,210,2.94%,gainersSedang gainersRendah,9677200,volumeRendah,2016978400,nilaiRendah,897,freqRendah
+248,ELSA,Elnusa Tbk.,Utama,Energy,10,394,2.60%,gainersSedang gainersRendah,229608700,volumeSedang volumeRendah,88753469600,nilaiSedang nilaiRendah,10311,freqSedang freqRendah
+249,ELTY,Bakrieland Development Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,23200,volumeRendah,1160000,nilaiRendah,5,freqRendah
+250,EMDE,Megapolitan Developments Tbk.,Pengembangan,Properties & Real Estate,4,140,2.94%,gainersSedang gainersRendah,15200,volumeRendah,2048000,nilaiRendah,17,freqRendah
+251,EMTK,Elang Mahkota Teknologi Tbk.,Utama,Technology,-30,1640,-1.80%,gainersRendah,37474000,volumeSedang volumeRendah,61190982500,nilaiSedang nilaiRendah,7480,freqSedang freqRendah
+252,ENAK,Champ Resto Indonesia Tbk.,Pengembangan,Cyclic,-115,1875,-5.78%,gainersRendah,3673600,volumeRendah,7107792500,nilaiRendah,690,freqRendah
+253,ENRG,Energi Mega Persada Tbk.,Pengembangan,Energy,-16,378,-4.06%,gainersRendah,186703100,volumeSedang volumeRendah,71373746000,nilaiSedang nilaiRendah,7101,freqSedang freqRendah
+254,ENVY,Envy Technologies Indonesia Tbk.,Pengembangan,Technology,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+255,ENZO,Morenzo Abadi Perkasa Tbk.,Pengembangan,Noncyc,0,63,0.00%,gainersRendah,3858200,volumeRendah,242254500,nilaiRendah,369,freqRendah
+256,EPAC,Megalestari Epack Sentosaraya Tbk.,Pengembangan,Basic Materials,0,50,0.00%,gainersRendah,500,volumeRendah,25000,nilaiRendah,2,freqRendah
+257,EPMT,Enseval Putera Megatrading Tbk.,Pengembangan,Noncyc,0,2720,0.00%,gainersRendah,20200,volumeRendah,55018000,nilaiRendah,14,freqRendah
+258,ERAA,Erajaya Swasembada Tbk.,Utama,Cyclic,0,414,0.00%,gainersRendah,5524400,volumeRendah,2286807600,nilaiRendah,1595,freqRendah
+259,ERTX,Eratex Djaja Tbk.,Pengembangan,Cyclic,0,198,0.00%,gainersRendah,83100,volumeRendah,16210100,nilaiRendah,79,freqRendah
+260,ESIP,Sinergi Inti Plastindo Tbk.,Pengembangan,Basic Materials,-3,64,-4.48%,gainersRendah,10107800,volumeRendah,656557200,nilaiRendah,888,freqRendah
+261,ESSA,Surya Esa Perkasa Tbk.,Utama,Basic Materials,-35,1115,-3.04%,gainersRendah,31061500,volumeSedang volumeRendah,34812275000,nilaiSedang nilaiRendah,4237,freqSedang freqRendah
+262,ESTA,Esta Multi Usaha Tbk.,Pengembangan,Cyclic,-3,108,-2.70%,gainersRendah,26690100,volumeSedang volumeRendah,2903320000,nilaiRendah,1192,freqRendah
+263,ESTI,Ever Shine Tex Tbk.,Utama,Cyclic,-1,63,-1.56%,gainersRendah,664700,volumeRendah,41943600,nilaiRendah,148,freqRendah
+264,ETWA,Eterindo Wahanatama Tbk,Pengembangan,Energy,8,258,3.20%,gainersSedang gainersRendah,603500,volumeRendah,151559200,nilaiRendah,234,freqRendah
+265,EURO,Estee Gold Feet Tbk.,Akselerasi,Noncyc,11,127,9.48%,gainersSedang gainersRendah,1571200,volumeRendah,198464100,nilaiRendah,261,freqRendah
+266,EXCL,XL Axiata Tbk.,Utama,Infrasctructures,0,2430,0.00%,gainersRendah,17268200,volumeRendah,41769803000,nilaiSedang nilaiRendah,8457,freqSedang freqRendah
+267,FAPA,FAP Agri Tbk.,Pengembangan,Noncyc,0,4220,0.00%,gainersRendah,46100,volumeRendah,194869000,nilaiRendah,31,freqRendah
+268,FAST,Fast Food Indonesia Tbk.,Pengembangan,Cyclic,0,900,0.00%,gainersRendah,21300,volumeRendah,19158000,nilaiRendah,20,freqRendah
+269,FASW,Fajar Surya Wisesa Tbk.,Utama,Basic Materials,0,6150,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+270,FILM,MD Pictures Tbk.,Utama,Cyclic,30,2820,1.08%,gainersRendah,14757100,volumeRendah,41529140000,nilaiSedang nilaiRendah,1024,freqRendah
+271,FIMP,Fimperkasa Utama Tbk.,Akselerasi,Infrasctructures,7,77,10.00%,gainersTinggi gainersSedang gainersRendah,18260900,volumeRendah,1356514600,nilaiRendah,2020,freqRendah
+272,FIRE,Alfa Energi Investama Tbk.,Pengembangan,Energy,2,240,0.84%,gainersRendah,27508300,volumeSedang volumeRendah,6838817800,nilaiRendah,5280,freqSedang freqRendah
+273,FISH,FKS Multi Agro Tbk.,Pengembangan,Noncyc,0,7400,0.00%,gainersRendah,100,volumeRendah,740000,nilaiRendah,1,freqRendah
+274,FITT,Hotel Fitra International Tbk.,Pengembangan,Cyclic,6,248,2.48%,gainersSedang gainersRendah,13083600,volumeRendah,3131318200,nilaiRendah,1156,freqRendah
+275,FLMC,Falmaco Nonwoven Industri Tbk.,Akselerasi,Noncyc,0,79,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+276,FMII,Fortune Mate Indonesia Tbk,Pengembangan,Properties & Real Estate,-2,310,-0.64%,gainersRendah,800,volumeRendah,247800,nilaiRendah,8,freqRendah
+277,FOOD,Sentra Food Indonesia Tbk.,Pengembangan,Noncyc,-1,120,-0.83%,gainersRendah,272300,volumeRendah,32700600,nilaiRendah,56,freqRendah
+278,FORU,Fortune Indonesia Tbk,Pengembangan,Cyclic,8,248,3.33%,gainersSedang gainersRendah,1362500,volumeRendah,337989800,nilaiRendah,570,freqRendah
+279,FORZ,Forza Land Indonesia Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+280,FPNI,Lotte Chemical Titan Tbk.,Pengembangan,Basic Materials,6,214,2.88%,gainersSedang gainersRendah,7514500,volumeRendah,1605480800,nilaiRendah,2530,freqRendah
+281,FREN,Smartfren Telecom Tbk.,Utama,Infrasctructures,-1,77,-1.28%,gainersRendah,84367400,volumeSedang volumeRendah,6521535700,nilaiRendah,2478,freqRendah
+282,FUJI,Fuji Finance Indonesia Tbk.,Pengembangan,Financials,20,635,3.25%,gainersSedang gainersRendah,200,volumeRendah,127000,nilaiRendah,2,freqRendah
+283,GAMA,Aksara Global Development Tbk.,Utama,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+284,GDST,Gunawan Dianjaya Steel Tbk.,Pengembangan,Basic Materials,-14,230,-5.74%,gainersRendah,116913300,volumeSedang volumeRendah,28858325400,nilaiSedang nilaiRendah,11396,freqSedang freqRendah
+285,GDYR,Goodyear Indonesia Tbk.,Utama,Cyclic,-40,1300,-2.99%,gainersRendah,300,volumeRendah,389000,nilaiRendah,3,freqRendah
+286,GEMA,Gema Grahasarana Tbk.,Pengembangan,Cyclic,0,282,0.00%,gainersRendah,11600,volumeRendah,3200200,nilaiRendah,14,freqRendah
+287,GEMS,Golden Energy Mines Tbk.,Utama,Energy,50,7375,0.68%,gainersRendah,68300,volumeRendah,497732500,nilaiRendah,203,freqRendah
+288,GGRM,Gudang Garam Tbk.,Utama,Noncyc,-625,22650,-2.69%,gainersRendah,1651900,volumeRendah,37424782500,nilaiSedang nilaiRendah,3816,freqSedang freqRendah
+289,GGRP,Gunung Raja Paksi Tbk.,Pengembangan,Basic Materials,35,560,6.67%,gainersSedang gainersRendah,168400,volumeRendah,91715500,nilaiRendah,74,freqRendah
+290,GHON,Gihon Telekomunikasi Indonesia Tbk.,Utama,Infrasctructures,-10,2000,-0.50%,gainersRendah,1200,volumeRendah,2400000,nilaiRendah,5,freqRendah
+291,GIAA,Garuda Indonesia (Persero) Tbk.,Pengembangan,Transportation & Logistic,0,222,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+292,GJTL,Gajah Tunggal Tbk.,Utama,Cyclic,0,600,0.00%,gainersRendah,2597600,volumeRendah,1570303500,nilaiRendah,329,freqRendah
+293,GLOB,Globe Kita Terang Tbk.,Pengembangan,Cyclic,-1,111,-0.89%,gainersRendah,22900,volumeRendah,2618400,nilaiRendah,22,freqRendah
+294,GLVA,Galva Technologies Tbk.,Pengembangan,Technology,2,350,0.57%,gainersRendah,272000,volumeRendah,92269400,nilaiRendah,63,freqRendah
+295,GMFI,Garuda Maintenance Facility Aero Asia Tbk.,Pengembangan,Infrasctructures,0,68,0.00%,gainersRendah,2047700,volumeRendah,138163800,nilaiRendah,118,freqRendah
+296,GMTD,Gowa Makassar Tourism Development Tbk.,Pengembangan,Properties & Real Estate,0,14500,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+297,GOLD,Visi Telekomunikasi Infrastruktur Tbk.,Pengembangan,Infrasctructures,0,318,0.00%,gainersRendah,5100,volumeRendah,1635800,nilaiRendah,11,freqRendah
+298,GOLL,Golden Plantation Tbk.,Pengembangan,Noncyc,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+299,GOOD,Garudafood Putra Putri Jaya Tbk.,Utama,Noncyc,0,525,0.00%,gainersRendah,5299300,volumeRendah,2756279000,nilaiRendah,659,freqRendah
+300,GOTO,GoTo Gojek Tokopedia Tbk.,Utama,Technology,0,200,0.00%,gainersRendah,710888400,volumeTinggi volumeSedang volumeRendah,144360047100,nilaiSedang nilaiRendah,17268,freqTinggi freqSedang freqRendah
+301,GPRA,Perdana Gapuraprima Tbk.,Utama,Properties & Real Estate,-3,98,-2.97%,gainersRendah,9643400,volumeRendah,947427600,nilaiRendah,582,freqRendah
+302,GPSO,Geoprima Solusi Tbk.,Pengembangan,Industrials,-3,113,-2.59%,gainersRendah,5146600,volumeRendah,584753500,nilaiRendah,611,freqRendah
+303,GSMF,Equity Development Investment Tbk.,Pengembangan,Financials,-2,80,-2.44%,gainersRendah,1950500,volumeRendah,156775000,nilaiRendah,129,freqRendah
+304,GTBO,Garda Tujuh Buana Tbk,Pengembangan,Energy,0,75,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+305,GTSI,GTS Internasional Tbk.,Utama,Energy,-1,61,-1.61%,gainersRendah,8472100,volumeRendah,520907700,nilaiRendah,406,freqRendah
+306,GULA,Aman Agrindo Tbk.,Pengembangan,Noncyc,5,204,2.51%,gainersSedang gainersRendah,3968200,volumeRendah,794918800,nilaiRendah,396,freqRendah
+307,GWSA,Greenwood Sejahtera Tbk.,Utama,Properties & Real Estate,2,161,1.26%,gainersRendah,226500,volumeRendah,35676100,nilaiRendah,52,freqRendah
+308,GZCO,Gozco Plantations Tbk.,Utama,Noncyc,2,128,1.59%,gainersRendah,52789800,volumeSedang volumeRendah,6684442000,nilaiRendah,4345,freqSedang freqRendah
+309,HADE,Himalaya Energi Perkasa Tbk.,Pengembangan,Infrasctructures,0,50,0.00%,gainersRendah,4500,volumeRendah,225000,nilaiRendah,5,freqRendah
+310,HAIS,Hasnur Internasional Shipping Tbk.,Utama,Transportation & Logistic,-4,226,-1.74%,gainersRendah,6838800,volumeRendah,1572954000,nilaiRendah,441,freqRendah
+311,HATM,Habco Trans Maritima Tbk.,Pengembangan,Transportation & Logistic,-4,412,-0.96%,gainersRendah,21819100,volumeSedang volumeRendah,9061789600,nilaiRendah,2187,freqRendah
+312,HDFA,Radana Bhaskara Finance Tbk.,Utama,Financials,-1,141,-0.70%,gainersRendah,41100,volumeRendah,5841700,nilaiRendah,19,freqRendah
+313,HDIT,Hensel Davest Indonesia Tbk.,Utama,Technology,1,88,1.15%,gainersRendah,146146900,volumeSedang volumeRendah,12746954000,nilaiRendah,8732,freqSedang freqRendah
+314,HDTX,Panasia Indo Resources Tbk.,Pengembangan,Cyclic,0,120,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+315,HEAL,Medikaloka Hermina Tbk.,Utama,Healthcare,-25,1525,-1.61%,gainersRendah,6912100,volumeRendah,10587429000,nilaiRendah,4498,freqSedang freqRendah
+316,HELI,Jaya Trishindo Tbk.,Pengembangan,Transportation & Logistic,4,256,1.59%,gainersRendah,10400,volumeRendah,2701200,nilaiRendah,12,freqRendah
+317,HERO,Hero Supermarket Tbk.,Utama,Noncyc,55,1680,3.38%,gainersSedang gainersRendah,191100,volumeRendah,323578500,nilaiRendah,128,freqRendah
+318,HEXA,Hexindo Adiperkasa Tbk.,Utama,Industrials,0,5625,0.00%,gainersRendah,351400,volumeRendah,1970337500,nilaiRendah,441,freqRendah
+319,HITS,Humpuss Intermoda Transportasi Tbk.,Utama,Energy,-35,505,-6.48%,gainersRendah,1100900,volumeRendah,578611500,nilaiRendah,256,freqRendah
+320,HKMU,HK Metals Utama Tbk.,Utama,Basic Materials,0,50,0.00%,gainersRendah,12300,volumeRendah,615000,nilaiRendah,5,freqRendah
+321,HMSP,H.M. Sampoerna Tbk.,Utama,Noncyc,-35,940,-3.59%,gainersRendah,64288500,volumeSedang volumeRendah,60400263000,nilaiSedang nilaiRendah,5926,freqSedang freqRendah
+322,HOKI,Buyung Poetra Sembada Tbk.,Utama,Noncyc,2,128,1.59%,gainersRendah,12820500,volumeRendah,1649950700,nilaiRendah,3326,freqSedang freqRendah
+323,HOME,Hotel Mandarine Regency Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+324,HOMI,Grand House Mulia Tbk.,Pengembangan,Properties & Real Estate,-5,725,-0.68%,gainersRendah,9190000,volumeRendah,6722029500,nilaiRendah,692,freqRendah
+325,HOPE,Harapan Duta Pertiwi Tbk.,Pengembangan,Industrials,-1,53,-1.85%,gainersRendah,2470000,volumeRendah,131193900,nilaiRendah,321,freqRendah
+326,HOTL,Saraswati Griya Lestari Tbk.,Utama,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+327,HRME,Menteng Heritage Realty Tbk.,Pengembangan,Cyclic,-1,53,-1.85%,gainersRendah,1067600,volumeRendah,56771600,nilaiRendah,45,freqRendah
+328,HRTA,Hartadinata Abadi Tbk.,Utama,Cyclic,-2,202,-0.98%,gainersRendah,6944600,volumeRendah,1405622400,nilaiRendah,377,freqRendah
+329,HRUM,Harum Energy Tbk.,Utama,Energy,10,1590,0.63%,gainersRendah,26089400,volumeSedang volumeRendah,41093286500,nilaiSedang nilaiRendah,4397,freqSedang freqRendah
+330,IATA,MNC Energy Investments Tbk.,Pengembangan,Energy,0,140,0.00%,gainersRendah,57629000,volumeSedang volumeRendah,7857216900,nilaiRendah,1983,freqRendah
+331,IBFN,Intan Baru Prana Tbk.,Pengembangan,Financials,0,97,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+332,IBOS,Indo Boga Sukses Tbk.,Akselerasi,Noncyc,-2,90,-2.17%,gainersRendah,138800,volumeRendah,12612500,nilaiRendah,51,freqRendah
+333,IBST,Inti Bangun Sejahtera Tbk.,Utama,Infrasctructures,-325,6175,-5.00%,gainersRendah,800,volumeRendah,5125000,nilaiRendah,8,freqRendah
+334,ICBP,Indofood CBP Sukses Makmur Tbk.,Utama,Noncyc,100,9650,1.05%,gainersRendah,6668600,volumeRendah,63931937500,nilaiSedang nilaiRendah,3260,freqSedang freqRendah
+335,ICON,Island Concepts Indonesia Tbk.,Pengembangan,Industrials,-1,77,-1.28%,gainersRendah,2742900,volumeRendah,212832200,nilaiRendah,474,freqRendah
+336,IDEA,Idea Indonesia Akademi Tbk.,Akselerasi,Cyclic,0,56,0.00%,gainersRendah,139400,volumeRendah,7778000,nilaiRendah,30,freqRendah
+337,IDPR,Indonesia Pondasi Raya Tbk.,Utama,Infrasctructures,-1,166,-0.60%,gainersRendah,179100,volumeRendah,29846400,nilaiRendah,41,freqRendah
+338,IFII,Indonesia Fibreboard Industry Tbk.,Utama,Basic Materials,1,160,0.63%,gainersRendah,95300,volumeRendah,15339700,nilaiRendah,90,freqRendah
+339,IFSH,Ifishdeco Tbk.,Pengembangan,Basic Materials,-20,990,-1.98%,gainersRendah,300,volumeRendah,299000,nilaiRendah,3,freqRendah
+340,IGAR,Champion Pacific Indonesia Tbk.,Utama,Basic Materials,0,478,0.00%,gainersRendah,46500,volumeRendah,22246600,nilaiRendah,37,freqRendah
+341,IIKP,Inti Agri Resources Tbk,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+342,IKAI,Intikeramik Alamasri Industri Tbk.,Utama,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+343,IKAN,Era Mandiri Cemerlang Tbk.,Pengembangan,Noncyc,0,65,0.00%,gainersRendah,1486600,volumeRendah,96103400,nilaiRendah,140,freqRendah
+344,IKBI,Sumi Indo Kabel Tbk.,Pengembangan,Industrials,-8,208,-3.70%,gainersRendah,237700,volumeRendah,48831200,nilaiRendah,59,freqRendah
+345,IMAS,Indomobil Sukses Internasional Tbk.,Utama,Cyclic,-5,955,-0.52%,gainersRendah,2334500,volumeRendah,2227942500,nilaiRendah,369,freqRendah
+346,IMJS,Indomobil Multi Jasa Tbk.,Utama,Financials,0,270,0.00%,gainersRendah,1338600,volumeRendah,363874200,nilaiRendah,130,freqRendah
+347,IMPC,Impack Pratama Industri Tbk.,Pengembangan,Industrials,0,3330,0.00%,gainersRendah,6187900,volumeRendah,20727072000,nilaiSedang nilaiRendah,547,freqRendah
+348,INAF,Indofarma Tbk.,Utama,Healthcare,-30,895,-3.24%,gainersRendah,173700,volumeRendah,158114000,nilaiRendah,145,freqRendah
+349,INAI,Indal Aluminium Industry Tbk.,Pengembangan,Basic Materials,-2,270,-0.74%,gainersRendah,30300,volumeRendah,8119200,nilaiRendah,31,freqRendah
+350,INCF,Indo Komoditi Korpora Tbk.,Pengembangan,Basic Materials,-2,53,-3.64%,gainersRendah,8067400,volumeRendah,432310800,nilaiRendah,388,freqRendah
+351,INCI,Intanwijaya Internasional Tbk,Utama,Basic Materials,-10,690,-1.43%,gainersRendah,75500,volumeRendah,51759000,nilaiRendah,48,freqRendah
+352,INCO,Vale Indonesia Tbk.,Utama,Basic Materials,125,6750,1.89%,gainersRendah,8740000,volumeRendah,58200567500,nilaiSedang nilaiRendah,4309,freqSedang freqRendah
+353,INDF,Indofood Sukses Makmur Tbk.,Utama,Noncyc,75,6450,1.18%,gainersRendah,6942100,volumeRendah,44527915000,nilaiSedang nilaiRendah,3252,freqSedang freqRendah
+354,INDO,Royalindo Investa Wijaya Tbk.,Pengembangan,Properties & Real Estate,-4,117,-3.31%,gainersRendah,8765100,volumeRendah,1045273300,nilaiRendah,787,freqRendah
+355,INDR,Indo-Rama Synthetics Tbk.,Utama,Cyclic,50,5950,0.85%,gainersRendah,247000,volumeRendah,1472150000,nilaiRendah,457,freqRendah
+356,INDS,Indospring Tbk.,Pengembangan,Cyclic,20,2010,1.01%,gainersRendah,500,volumeRendah,1006000,nilaiRendah,3,freqRendah
+357,INDX,Tanah Laut Tbk,Pengembangan,Industrials,0,246,0.00%,gainersRendah,10866800,volumeRendah,2750248400,nilaiRendah,2483,freqRendah
+358,INDY,Indika Energy Tbk.,Utama,Energy,-40,2990,-1.32%,gainersRendah,7862900,volumeRendah,23505606000,nilaiSedang nilaiRendah,3099,freqSedang freqRendah
+359,INKP,Indah Kiat Pulp & Paper Tbk.,Utama,Basic Materials,575,10300,5.91%,gainersSedang gainersRendah,16509000,volumeRendah,168164370000,nilaiTinggi nilaiSedang nilaiRendah,9732,freqSedang freqRendah
+360,INOV,Inocycle Technology Group Tbk.,Pengembangan,Cyclic,4,138,2.99%,gainersSedang gainersRendah,4716900,volumeRendah,629832500,nilaiRendah,306,freqRendah
+361,INPC,Bank Artha Graha Internasional Tbk.,Utama,Financials,0,84,0.00%,gainersRendah,1515200,volumeRendah,126516300,nilaiRendah,113,freqRendah
+362,INPP,Indonesian Paradise Property Tbk.,Pengembangan,Properties & Real Estate,2,418,0.48%,gainersRendah,2700,volumeRendah,1054200,nilaiRendah,3,freqRendah
+363,INPS,Indah Prakasa Sentosa Tbk.,Pengembangan,Energy,15,765,2.00%,gainersSedang gainersRendah,6700,volumeRendah,5102000,nilaiRendah,16,freqRendah
+364,INRU,Toba Pulp Lestari Tbk.,Pengembangan,Basic Materials,5,740,0.68%,gainersRendah,25500,volumeRendah,18661000,nilaiRendah,48,freqRendah
+365,INTA,Intraco Penta Tbk.,Pengembangan,Industrials,0,74,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+366,INTD,Inter Delta Tbk,Pengembangan,Basic Materials,2,190,1.06%,gainersRendah,2200,volumeRendah,416500,nilaiRendah,6,freqRendah
+367,INTP,Indocement Tunggal Prakarsa Tbk.,Utama,Basic Materials,375,10475,3.71%,gainersSedang gainersRendah,12776900,volumeRendah,133755902500,nilaiSedang nilaiRendah,6204,freqSedang freqRendah
+368,IPAC,Era Graharealty Tbk.,Akselerasi,Properties & Real Estate,-1,125,-0.79%,gainersRendah,10700,volumeRendah,1288300,nilaiRendah,26,freqRendah
+369,IPCC,Indonesia Kendaraan Terminal Tbk.,Utama,Infrasctructures,25,620,4.20%,gainersSedang gainersRendah,10542100,volumeRendah,6390916500,nilaiRendah,1303,freqRendah
+370,IPCM,Jasa Armada Indonesia Tbk.,Utama,Infrasctructures,4,286,1.42%,gainersRendah,4788200,volumeRendah,1366561000,nilaiRendah,613,freqRendah
+371,IPOL,Indopoly Swakarsa Industry Tbk.,Utama,Basic Materials,-4,156,-2.50%,gainersRendah,36290000,volumeSedang volumeRendah,5762485200,nilaiRendah,888,freqRendah
+372,IPPE,Indo Pureco Pratama Tbk.,Pengembangan,Noncyc,8,244,3.39%,gainersSedang gainersRendah,97584800,volumeSedang volumeRendah,23824891200,nilaiSedang nilaiRendah,9883,freqSedang freqRendah
+373,IPTV,MNC Vision Networks Tbk.,Utama,Cyclic,-1,81,-1.22%,gainersRendah,13722600,volumeRendah,1114052000,nilaiRendah,802,freqRendah
+374,IRRA,Itama Ranoraya Tbk.,Pengembangan,Healthcare,-20,1165,-1.69%,gainersRendah,1700100,volumeRendah,1974014500,nilaiRendah,343,freqRendah
+375,ISAT,Indosat Tbk.,Utama,Infrasctructures,-125,6700,-1.83%,gainersRendah,1515800,volumeRendah,10152955000,nilaiRendah,1143,freqRendah
+376,ISSP,Steel Pipe Industry of Indonesia Tbk.,Utama,Basic Materials,2,268,0.75%,gainersRendah,3218100,volumeRendah,850685400,nilaiRendah,522,freqRendah
+377,ITIC,Indonesian Tobacco Tbk.,Pengembangan,Noncyc,-6,276,-2.13%,gainersRendah,738600,volumeRendah,205853200,nilaiRendah,170,freqRendah
+378,ITMA,Sumber Energi Andalan Tbk.,Pengembangan,Energy,0,1010,0.00%,gainersRendah,494800,volumeRendah,496317000,nilaiRendah,299,freqRendah
+379,ITMG,Indo Tambangraya Megah Tbk.,Utama,Energy,0,43600,0.00%,gainersRendah,3427500,volumeRendah,149573677500,nilaiSedang nilaiRendah,4703,freqSedang freqRendah
+380,JARR,Jhonlin Agro Raya Tbk.,Pengembangan,Noncyc,-2,310,-0.64%,gainersRendah,565100,volumeRendah,176239600,nilaiRendah,134,freqRendah
+381,JAST,Jasnita Telekomindo Tbk.,Pengembangan,Infrasctructures,-1,96,-1.03%,gainersRendah,3232300,volumeRendah,308295400,nilaiRendah,586,freqRendah
+382,JAWA,Jaya Agra Wattie Tbk.,Utama,Noncyc,-2,130,-1.52%,gainersRendah,1169800,volumeRendah,152479200,nilaiRendah,179,freqRendah
+383,JAYA,Armada Berjaya Trans Tbk.,Pengembangan,Transportation & Logistic,-8,110,-6.78%,gainersRendah,30136700,volumeSedang volumeRendah,3355810900,nilaiRendah,1858,freqRendah
+384,JECC,Jembo Cable Company Tbk.,Pengembangan,Industrials,0,4660,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+385,JGLE,Graha Andrasentra Propertindo Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+386,JIHD,Jakarta International Hotels & Development Tbk.,Pengembangan,Cyclic,4,340,1.19%,gainersRendah,165900,volumeRendah,57936800,nilaiRendah,39,freqRendah
+387,JKON,Jaya Konstruksi Manggala Pratama Tbk.,Utama,Infrasctructures,-2,162,-1.22%,gainersRendah,50366100,volumeSedang volumeRendah,8244023500,nilaiRendah,7089,freqSedang freqRendah
+388,JKSW,Jakarta Kyoei Steel Works Tbk.,Pengembangan,Basic Materials,0,60,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+389,JMAS,Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.,Pengembangan,Financials,-4,125,-3.10%,gainersRendah,7705900,volumeRendah,997263200,nilaiRendah,1370,freqRendah
+390,JPFA,Japfa Comfeed Indonesia Tbk.,Utama,Noncyc,-10,1365,-0.73%,gainersRendah,18655200,volumeRendah,25440823000,nilaiSedang nilaiRendah,10107,freqSedang freqRendah
+391,JRPT,Jaya Real Property Tbk.,Utama,Properties & Real Estate,-4,456,-0.87%,gainersRendah,2870500,volumeRendah,1308892200,nilaiRendah,276,freqRendah
+392,JSKY,Sky Energy Indonesia Tbk.,Utama,Energy,0,52,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+393,JSMR,Jasa Marga (Persero) Tbk.,Utama,Infrasctructures,0,3330,0.00%,gainersRendah,3917500,volumeRendah,12927443000,nilaiRendah,1706,freqRendah
+394,JSPT,Jakarta Setiabudi Internasional Tbk.,Pengembangan,Cyclic,0,850,0.00%,gainersRendah,100,volumeRendah,85000,nilaiRendah,1,freqRendah
+395,JTPE,Jasuindo Tiga Perkasa Tbk.,Pengembangan,Industrials,2,272,0.74%,gainersRendah,274000,volumeRendah,73914000,nilaiRendah,30,freqRendah
+396,KAEF,Kimia Farma Tbk.,Utama,Healthcare,10,1195,0.84%,gainersRendah,212800,volumeRendah,254169000,nilaiRendah,132,freqRendah
+397,KARW,ICTSI Jasa Prima Tbk.,Pengembangan,Infrasctructures,8,94,9.30%,gainersSedang gainersRendah,5268800,volumeRendah,476778500,nilaiRendah,1014,freqRendah
+398,KAYU,Darmi Bersaudara Tbk.,Pengembangan,Basic Materials,0,50,0.00%,gainersRendah,400,volumeRendah,20000,nilaiRendah,2,freqRendah
+399,KBAG,Karya Bersama Anugerah Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,65500,volumeRendah,3275000,nilaiRendah,17,freqRendah
+400,KBLI,KMI Wire & Cable Tbk.,Utama,Industrials,10,320,3.23%,gainersSedang gainersRendah,2793400,volumeRendah,886934600,nilaiRendah,121,freqRendah
+401,KBLM,Kabelindo Murni Tbk.,Pengembangan,Industrials,-4,256,-1.54%,gainersRendah,267600,volumeRendah,68745600,nilaiRendah,55,freqRendah
+402,KBLV,First Media Tbk.,Pengembangan,Infrasctructures,-2,156,-1.27%,gainersRendah,892800,volumeRendah,139713500,nilaiRendah,125,freqRendah
+403,KBRI,Kertas Basuki Rachmat Indonesia Tbk.,Pengembangan,Basic Materials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+404,KDSI,Kedawung Setia Industrial Tbk.,Pengembangan,Basic Materials,0,1020,0.00%,gainersRendah,5558800,volumeRendah,5659918000,nilaiRendah,220,freqRendah
+405,KEEN,Kencana Energi Lestari Tbk.,Utama,Infrasctructures,-15,695,-2.11%,gainersRendah,1596200,volumeRendah,1118789500,nilaiRendah,338,freqRendah
+406,KEJU,Mulia Boga Raya Tbk.,Pengembangan,Noncyc,-5,1430,-0.35%,gainersRendah,1100,volumeRendah,1563000,nilaiRendah,7,freqRendah
+407,KIAS,Keramika Indonesia Assosiasi Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+408,KICI,Kedaung Indah Can Tbk,Utama,Cyclic,0,206,0.00%,gainersRendah,172200,volumeRendah,34057500,nilaiRendah,63,freqRendah
+409,KIJA,Kawasan Industri Jababeka Tbk.,Utama,Properties & Real Estate,0,150,0.00%,gainersRendah,2907400,volumeRendah,432870900,nilaiRendah,302,freqRendah
+410,KINO,Kino Indonesia Tbk.,Utama,Noncyc,-5,1735,-0.29%,gainersRendah,384000,volumeRendah,668559000,nilaiRendah,295,freqRendah
+411,KIOS,Kioson Komersial Indonesia Tbk.,Pengembangan,Technology,8,474,1.72%,gainersRendah,44914000,volumeSedang volumeRendah,21432600600,nilaiSedang nilaiRendah,2273,freqRendah
+412,KJEN,Krida Jaringan Nusantara Tbk.,Pengembangan,Transportation & Logistic,-6,184,-3.16%,gainersRendah,12418500,volumeRendah,2349666000,nilaiRendah,2529,freqRendah
+413,KKES,Kusuma Kemindo Sentosa Tbk.,Pengembangan,Basic Materials,1,136,0.74%,gainersRendah,15720200,volumeRendah,2147765400,nilaiRendah,967,freqRendah
+414,KKGI,Resource Alam Indonesia Tbk.,Utama,Energy,-35,535,-6.14%,gainersRendah,11682300,volumeRendah,6335556000,nilaiRendah,2227,freqRendah
+415,KLBF,Kalbe Farma Tbk.,Utama,Healthcare,-5,1965,-0.25%,gainersRendah,33585400,volumeSedang volumeRendah,65494338000,nilaiSedang nilaiRendah,4904,freqSedang freqRendah
+416,KLIN,Klinko Karya Imaji Tbk.,Akselerasi,Cyclic,0,46,0.00%,gainersRendah,25579200,volumeSedang volumeRendah,1176497200,nilaiRendah,142,freqRendah
+417,KMDS,Kurniamitra Duta Sentosa Tbk.,Pengembangan,Noncyc,-20,505,-3.81%,gainersRendah,286800,volumeRendah,145169000,nilaiRendah,120,freqRendah
+418,KMTR,Kirana Megatara Tbk.,Pengembangan,Basic Materials,0,276,0.00%,gainersRendah,400,volumeRendah,108800,nilaiRendah,4,freqRendah
+419,KOBX,Kobexindo Tractors Tbk.,Utama,Industrials,-2,396,-0.50%,gainersRendah,981000,volumeRendah,385649800,nilaiRendah,232,freqRendah
+420,KOIN,Kokoh Inti Arebama Tbk,Pengembangan,Industrials,-1,136,-0.73%,gainersRendah,200,volumeRendah,27200,nilaiRendah,2,freqRendah
+421,KONI,Perdana Bangun Pusaka Tbk,Pengembangan,Industrials,0,2160,0.00%,gainersRendah,300,volumeRendah,647000,nilaiRendah,3,freqRendah
+422,KOPI,Mitra Energi Persada Tbk.,Pengembangan,Energy,20,555,3.74%,gainersSedang gainersRendah,254500,volumeRendah,134793000,nilaiRendah,106,freqRendah
+423,KOTA,DMS Propertindo Tbk.,Utama,Properties & Real Estate,0,50,0.00%,gainersRendah,14400,volumeRendah,720000,nilaiRendah,10,freqRendah
+424,KPAL,Steadfast Marine Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+425,KPAS,Cottonindo Ariesta Tbk.,Pengembangan,Noncyc,0,62,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+426,KPIG,MNC Land Tbk.,Pengembangan,Cyclic,-1,81,-1.22%,gainersRendah,9464700,volumeRendah,768919300,nilaiRendah,347,freqRendah
+427,KRAH,Grand Kartech Tbk.,Pengembangan,Industrials,0,436,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+428,KRAS,Krakatau Steel (Persero) Tbk.,Utama,Basic Materials,6,354,1.72%,gainersRendah,7810900,volumeRendah,2755437800,nilaiRendah,981,freqRendah
+429,KREN,Kresna Graha Investama Tbk.,Utama,Technology,0,50,0.00%,gainersRendah,14900,volumeRendah,745000,nilaiRendah,7,freqRendah
+430,KRYA,Bangun Karya Perkasa Jaya Tbk.,Pengembangan,Infrasctructures,54,360,17.65%,gainersTinggi gainersSedang gainersRendah,170557100,volumeSedang volumeRendah,57852666200,nilaiSedang nilaiRendah,18538,freqTinggi freqSedang freqRendah
+431,KUAS,Ace Oldfields Tbk.,Pengembangan,Industrials,-4,62,-6.06%,gainersRendah,14393400,volumeRendah,917715100,nilaiRendah,854,freqRendah
+432,LABA,Ladangbaja Murni Tbk.,Pengembangan,Industrials,1,124,0.81%,gainersRendah,238200,volumeRendah,29272900,nilaiRendah,93,freqRendah
+433,LAND,Trimitra Propertindo Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,1327800,volumeRendah,66390000,nilaiRendah,134,freqRendah
+434,LAPD,Leyand International Tbk.,Pengembangan,Infrasctructures,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+435,LCGP,Eureka Prima Jakarta Tbk.,Pengembangan,Properties & Real Estate,0,114,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+436,LCKM,LCK Global Kedaton Tbk.,Pengembangan,Infrasctructures,0,314,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+437,LEAD,Logindo Samudramakmur Tbk.,Utama,Energy,0,99,0.00%,gainersRendah,44695000,volumeSedang volumeRendah,4354540800,nilaiRendah,1823,freqRendah
+438,LFLO,Imago Mulia Persada Tbk.,Akselerasi,Cyclic,0,60,0.00%,gainersRendah,35300,volumeRendah,2117100,nilaiRendah,8,freqRendah
+439,LIFE,Asuransi Jiwa Sinarmas MSIG Tbk.,Utama,Financials,0,6125,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+440,LINK,Link Net Tbk.,Utama,Infrasctructures,40,2870,1.41%,gainersRendah,160200,volumeRendah,459822000,nilaiRendah,376,freqRendah
+441,LION,Lion Metal Works Tbk.,Utama,Industrials,-20,386,-4.93%,gainersRendah,6700,volumeRendah,2601600,nilaiRendah,15,freqRendah
+442,LMAS,Limas Indonesia Makmur Tbk,Pengembangan,Technology,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+443,LMPI,Langgeng Makmur Industri Tbk.,Pengembangan,Cyclic,-1,140,-0.71%,gainersRendah,63300,volumeRendah,8907100,nilaiRendah,11,freqRendah
+444,LMSH,Lionmesh Prima Tbk.,Pengembangan,Basic Materials,25,700,3.70%,gainersSedang gainersRendah,3400,volumeRendah,2362500,nilaiRendah,10,freqRendah
+445,LPCK,Lippo Cikarang Tbk,Utama,Properties & Real Estate,10,1070,0.94%,gainersRendah,135200,volumeRendah,143084500,nilaiRendah,43,freqRendah
+446,LPGI,Lippo General Insurance Tbk.,Utama,Financials,-125,5200,-2.35%,gainersRendah,10700,volumeRendah,55685000,nilaiRendah,68,freqRendah
+447,LPIN,Multi Prima Sejahtera Tbk,Pengembangan,Cyclic,2,396,0.51%,gainersRendah,150900,volumeRendah,58815400,nilaiRendah,86,freqRendah
+448,LPKR,Lippo Karawaci Tbk.,Utama,Properties & Real Estate,-1,97,-1.02%,gainersRendah,41390900,volumeSedang volumeRendah,4079779900,nilaiRendah,5333,freqSedang freqRendah
+449,LPLI,Star Pacific Tbk,Pengembangan,Properties & Real Estate,2,272,0.74%,gainersRendah,2000,volumeRendah,553400,nilaiRendah,7,freqRendah
+450,LPPF,Matahari Department Store Tbk.,Utama,Cyclic,30,4800,0.63%,gainersRendah,970500,volumeRendah,4628988000,nilaiRendah,1174,freqRendah
+451,LPPS,Lenox Pasifik Investama Tbk.,Pengembangan,Financials,0,83,0.00%,gainersRendah,27700,volumeRendah,2287900,nilaiRendah,91,freqRendah
+452,LRNA,Eka Sari Lorena Transport Tbk.,Pengembangan,Transportation & Logistic,4,181,2.26%,gainersSedang gainersRendah,57800,volumeRendah,10317000,nilaiRendah,34,freqRendah
+453,LSIP,PP London Sumatra Indonesia Tbk.,Utama,Noncyc,0,1130,0.00%,gainersRendah,5632600,volumeRendah,6329742000,nilaiRendah,1226,freqRendah
+454,LTLS,Lautan Luas Tbk.,Utama,Basic Materials,10,1435,0.70%,gainersRendah,81000,volumeRendah,116298500,nilaiRendah,93,freqRendah
+455,LUCK,Sentral Mitra Informatika Tbk.,Pengembangan,Technology,-1,156,-0.64%,gainersRendah,1160200,volumeRendah,180590700,nilaiRendah,393,freqRendah
+456,LUCY,Lima Dua Lima Tiga Tbk.,Akselerasi,Cyclic,3,194,1.57%,gainersRendah,2164100,volumeRendah,422010300,nilaiRendah,207,freqRendah
+457,MABA,Marga Abhinaya Abadi Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+458,MAGP,Multi Agro Gemilang Plantation Tbk.,Pengembangan,Noncyc,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+459,MAIN,Malindo Feedmill Tbk.,Utama,Noncyc,10,560,1.82%,gainersRendah,325000,volumeRendah,177575000,nilaiRendah,154,freqRendah
+460,MAMI,Mas Murni Indonesia Tbk,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+461,MAPA,Map Aktif Adiperkasa Tbk.,Utama,Cyclic,140,3490,4.18%,gainersSedang gainersRendah,3103100,volumeRendah,10728169000,nilaiRendah,1819,freqRendah
+462,MAPB,MAP Boga Adiperkasa Tbk.,Pengembangan,Cyclic,-40,1760,-2.22%,gainersRendah,400,volumeRendah,708500,nilaiRendah,4,freqRendah
+463,MAPI,Mitra Adiperkasa Tbk.,Utama,Cyclic,-45,1290,-3.37%,gainersRendah,21938200,volumeSedang volumeRendah,28600275000,nilaiSedang nilaiRendah,4402,freqSedang freqRendah
+464,MARI,Mahaka Radio Integra Tbk.,Pengembangan,Cyclic,0,118,0.00%,gainersRendah,30024500,volumeSedang volumeRendah,3581938700,nilaiRendah,1630,freqRendah
+465,MARK,Mark Dynamics Indonesia Tbk.,Utama,Industrials,-10,640,-1.54%,gainersRendah,3824400,volumeRendah,2498194500,nilaiRendah,634,freqRendah
+466,MASA,Multistrada Arah Sarana Tbk.,Utama,Cyclic,0,2000,0.00%,gainersRendah,1700,volumeRendah,3383000,nilaiRendah,10,freqRendah
+467,MASB,Bank Multiarta Sentosa Tbk.,Pengembangan,Financials,-200,3600,-5.26%,gainersRendah,27200,volumeRendah,97142000,nilaiRendah,51,freqRendah
+468,MAYA,Bank Mayapada Internasional Tbk.,Utama,Financials,-20,670,-2.90%,gainersRendah,42289500,volumeSedang volumeRendah,30310272500,nilaiSedang nilaiRendah,4058,freqSedang freqRendah
+469,MBAP,Mitrabara Adiperdana Tbk.,Pengembangan,Energy,-100,7500,-1.32%,gainersRendah,293300,volumeRendah,2193595000,nilaiRendah,509,freqRendah
+470,MBSS,Mitrabahtera Segara Sejati Tbk.,Utama,Energy,-45,1230,-3.53%,gainersRendah,338000,volumeRendah,416024000,nilaiRendah,228,freqRendah
+471,MBTO,Martina Berto Tbk.,Utama,Noncyc,-5,132,-3.65%,gainersRendah,356700,volumeRendah,47831900,nilaiRendah,96,freqRendah
+472,MCAS,M Cash Integrasi Tbk.,Pengembangan,Technology,-100,10650,-0.93%,gainersRendah,2203300,volumeRendah,23491602500,nilaiSedang nilaiRendah,3669,freqSedang freqRendah
+473,MCOL,Prima Andalan Mandiri Tbk.,Utama,Energy,25,7200,0.35%,gainersRendah,206900,volumeRendah,1482560000,nilaiRendah,104,freqRendah
+474,MCOR,Bank China Construction Bank Indonesia Tbk.,Utama,Financials,0,88,0.00%,gainersRendah,1448500,volumeRendah,127688700,nilaiRendah,157,freqRendah
+475,MDIA,Intermedia Capital Tbk.,Pengembangan,Cyclic,0,52,0.00%,gainersRendah,7856800,volumeRendah,413820200,nilaiRendah,205,freqRendah
+476,MDKA,Merdeka Copper Gold Tbk.,Utama,Basic Materials,190,3990,5.00%,gainersSedang gainersRendah,36378200,volumeSedang volumeRendah,141816231000,nilaiSedang nilaiRendah,8071,freqSedang freqRendah
+477,MDKI,Emdeki Utama Tbk.,Utama,Basic Materials,1,194,0.52%,gainersRendah,108600,volumeRendah,20982700,nilaiRendah,49,freqRendah
+478,MDLN,Modernland Realty Tbk.,Utama,Properties & Real Estate,0,100,0.00%,gainersRendah,14338500,volumeRendah,1434433200,nilaiRendah,556,freqRendah
+479,MDRN,Modern Internasional Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,1000,volumeRendah,50000,nilaiRendah,1,freqRendah
+480,MEDC,Medco Energi Internasional Tbk.,Utama,Energy,60,1190,5.31%,gainersSedang gainersRendah,99816400,volumeSedang volumeRendah,114837821000,nilaiSedang nilaiRendah,11431,freqSedang freqRendah
+481,MEDS,Hetzer Medical Indonesia Tbk.,Pengembangan,Healthcare,10,171,6.21%,gainersSedang gainersRendah,15122500,volumeRendah,2525918800,nilaiRendah,3209,freqSedang freqRendah
+482,MEGA,Bank Mega Tbk.,Utama,Financials,-25,5375,-0.46%,gainersRendah,6900,volumeRendah,36987500,nilaiRendah,22,freqRendah
+483,MERK,Merck Tbk.,Pengembangan,Healthcare,-25,5175,-0.48%,gainersRendah,41800,volumeRendah,214515000,nilaiRendah,53,freqRendah
+484,META,Nusantara Infrastructure Tbk.,Utama,Infrasctructures,-2,132,-1.49%,gainersRendah,32307200,volumeSedang volumeRendah,4289645200,nilaiRendah,1540,freqRendah
+485,MFIN,Mandala Multifinance Tbk.,Pengembangan,Financials,10,1730,0.58%,gainersRendah,53400,volumeRendah,92301500,nilaiRendah,17,freqRendah
+486,MFMI,Multifiling Mitra Indonesia Tbk.,Pengembangan,Industrials,-20,775,-2.52%,gainersRendah,2100,volumeRendah,1700500,nilaiRendah,11,freqRendah
+487,MGLV,Panca Anugrah Wisesa Tbk.,Akselerasi,Cyclic,-2,139,-1.42%,gainersRendah,1300,volumeRendah,177900,nilaiRendah,9,freqRendah
+488,MGNA,Magna Investama Mandiri Tbk.,Pengembangan,Financials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+489,MGRO,Mahkota Group Tbk.,Utama,Noncyc,-10,780,-1.27%,gainersRendah,5134900,volumeRendah,3992726500,nilaiRendah,396,freqRendah
+490,MICE,Multi Indocitra Tbk.,Pengembangan,Cyclic,4,474,0.85%,gainersRendah,4330900,volumeRendah,2059576600,nilaiRendah,182,freqRendah
+491,MIDI,Midi Utama Indonesia Tbk.,Pengembangan,Noncyc,-30,3070,-0.97%,gainersRendah,700,volumeRendah,2155000,nilaiRendah,6,freqRendah
+492,MIKA,Mitra Keluarga Karyasehat Tbk.,Utama,Healthcare,80,2750,3.00%,gainersSedang gainersRendah,21626700,volumeSedang volumeRendah,59835531000,nilaiSedang nilaiRendah,3307,freqSedang freqRendah
+493,MINA,Sanurhasta Mitra Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+494,MIRA,Mitra International Resources Tbk.,Pengembangan,Transportation & Logistic,0,50,0.00%,gainersRendah,1100,volumeRendah,55000,nilaiRendah,2,freqRendah
+495,MITI,Mitra Investindo Tbk.,Pengembangan,Energy,-2,165,-1.20%,gainersRendah,1171700,volumeRendah,193817200,nilaiRendah,199,freqRendah
+496,MKNT,Mitra Komunikasi Nusantara Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+497,MKPI,Metropolitan Kentjana Tbk.,Pengembangan,Properties & Real Estate,-150,22800,-0.65%,gainersRendah,110000,volumeRendah,2508000000,nilaiRendah,1,freqRendah
+498,MLBI,Multi Bintang Indonesia Tbk.,Utama,Noncyc,125,9075,1.40%,gainersRendah,277500,volumeRendah,2512297500,nilaiRendah,109,freqRendah
+499,MLIA,Mulia Industrindo Tbk,Pengembangan,Industrials,5,580,0.87%,gainersRendah,12523800,volumeRendah,7150779500,nilaiRendah,614,freqRendah
+500,MLPL,Multipolar Tbk.,Utama,Industrials,8,133,6.40%,gainersSedang gainersRendah,181613800,volumeSedang volumeRendah,24000576500,nilaiSedang nilaiRendah,7373,freqSedang freqRendah
+501,MLPT,Multipolar Technology Tbk.,Utama,Technology,-50,2070,-2.36%,gainersRendah,22900,volumeRendah,47539000,nilaiRendah,42,freqRendah
+502,MMLP,Mega Manunggal Property Tbk.,Pengembangan,Properties & Real Estate,-12,446,-2.62%,gainersRendah,16615300,volumeRendah,7432600200,nilaiRendah,2126,freqRendah
+503,MNCN,Media Nusantara Citra Tbk.,Utama,Cyclic,0,815,0.00%,gainersRendah,14383400,volumeRendah,11668468500,nilaiRendah,1282,freqRendah
+504,MOLI,Madusari Murni Indah Tbk.,Pengembangan,Basic Materials,8,258,3.20%,gainersSedang gainersRendah,32500,volumeRendah,8254000,nilaiRendah,28,freqRendah
+505,MORA,Mora Telematika Indonesia Tbk.,Utama,Infrasctructures,-5,575,-0.86%,gainersRendah,4643500,volumeRendah,2694613000,nilaiRendah,288,freqRendah
+506,MPMX,Mitra Pinasthika Mustika Tbk.,Utama,Cyclic,0,1055,0.00%,gainersRendah,18518500,volumeRendah,19503616500,nilaiSedang nilaiRendah,2485,freqRendah
+507,MPOW,Megapower Makmur Tbk.,Pengembangan,Infrasctructures,1,93,1.09%,gainersRendah,5068100,volumeRendah,465901800,nilaiRendah,588,freqRendah
+508,MPPA,Matahari Putra Prima Tbk.,Utama,Noncyc,17,151,12.69%,gainersTinggi gainersSedang gainersRendah,463368200,volumeTinggi volumeSedang volumeRendah,67813171600,nilaiSedang nilaiRendah,42448,freqTinggi freqSedang freqRendah
+509,MPRO,Maha Properti Indonesia Tbk.,Pengembangan,Properties & Real Estate,0,1755,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+510,MRAT,Mustika Ratu Tbk.,Utama,Noncyc,10,600,1.69%,gainersRendah,9271100,volumeRendah,5831487000,nilaiRendah,2349,freqRendah
+511,MREI,Maskapai Reasuransi Indonesia Tbk.,Pengembangan,Financials,-230,3890,-5.58%,gainersRendah,39500,volumeRendah,156053000,nilaiRendah,137,freqRendah
+512,MSIN,MNC Digital Entertainment Tbk.,Utama,Cyclic,-10,4990,-0.20%,gainersRendah,2179800,volumeRendah,10884705000,nilaiRendah,295,freqRendah
+513,MSKY,MNC Sky Vision Tbk.,Utama,Cyclic,2,224,0.90%,gainersRendah,91100,volumeRendah,20308600,nilaiRendah,40,freqRendah
+514,MTDL,Metrodata Electronics Tbk.,Utama,Technology,-5,585,-0.85%,gainersRendah,1198000,volumeRendah,697863500,nilaiRendah,545,freqRendah
+515,MTEL,Dayamitra Telekomunikasi Tbk.,Utama,Infrasctructures,5,710,0.71%,gainersRendah,14309100,volumeRendah,10077562500,nilaiRendah,10859,freqSedang freqRendah
+516,MTFN,Capitalinc Investment Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+517,MTLA,Metropolitan Land Tbk.,Utama,Properties & Real Estate,-8,350,-2.23%,gainersRendah,189100,volumeRendah,67577400,nilaiRendah,140,freqRendah
+518,MTMH,Murni Sadar Tbk.,Utama,Healthcare,-85,1665,-4.86%,gainersRendah,2915300,volumeRendah,4935799500,nilaiRendah,300,freqRendah
+519,MTPS,Meta Epsi Tbk.,Pengembangan,Infrasctructures,0,50,0.00%,gainersRendah,214800,volumeRendah,10741600,nilaiRendah,15,freqRendah
+520,MTRA,Mitra Pemuda Tbk.,Pengembangan,Infrasctructures,0,244,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+521,MTSM,Metro Realty Tbk.,Pengembangan,Properties & Real Estate,0,168,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+522,MTWI,Malacca Trust Wuwungan Insurance Tbk.,Pengembangan,Financials,-1,159,-0.63%,gainersRendah,10421200,volumeRendah,1669087400,nilaiRendah,1257,freqRendah
+523,MYOH,Samindo Resources Tbk.,Utama,Energy,0,1545,0.00%,gainersRendah,16200,volumeRendah,25009000,nilaiRendah,7,freqRendah
+524,MYOR,Mayora Indah Tbk.,Utama,Noncyc,80,2420,3.42%,gainersSedang gainersRendah,4052400,volumeRendah,9578950000,nilaiRendah,1848,freqRendah
+525,MYRX,Hanson International Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+526,MYTX,Asia Pacific Investama Tbk.,Pengembangan,Cyclic,-1,56,-1.75%,gainersRendah,62400,volumeRendah,3548100,nilaiRendah,29,freqRendah
+527,NANO,Nanotech Indonesia Global Tbk.,Akselerasi,Noncyc,4,45,9.76%,gainersSedang gainersRendah,17646600,volumeRendah,771746500,nilaiRendah,1019,freqRendah
+528,NASA,Andalan Perkasa Abadi Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,800,volumeRendah,40000,nilaiRendah,3,freqRendah
+529,NASI,Wahana Inti Makmur Tbk.,Pengembangan,Noncyc,0,112,0.00%,gainersRendah,2191300,volumeRendah,246429200,nilaiRendah,249,freqRendah
+530,NATO,Surya Permata Andalan Tbk.,Pengembangan,Cyclic,0,510,0.00%,gainersRendah,278110700,volumeSedang volumeRendah,141694349700,nilaiSedang nilaiRendah,2132,freqRendah
+531,NELY,Pelayaran Nelly Dwi Putri Tbk.,Pengembangan,Transportation & Logistic,-4,320,-1.23%,gainersRendah,1985700,volumeRendah,636483000,nilaiRendah,543,freqRendah
+532,NETV,Net Visi Media Tbk.,Pengembangan,Cyclic,2,230,0.88%,gainersRendah,4120000,volumeRendah,953697800,nilaiRendah,485,freqRendah
+533,NFCX,NFC Indonesia Tbk.,Pengembangan,Technology,-175,11200,-1.54%,gainersRendah,234500,volumeRendah,2598300000,nilaiRendah,165,freqRendah
+534,NICK,Charnic Capital Tbk.,Pengembangan,Financials,10,430,2.38%,gainersSedang gainersRendah,47900,volumeRendah,20276800,nilaiRendah,116,freqRendah
+535,NICL,PAM Mineral Tbk.,Pengembangan,Basic Materials,0,94,0.00%,gainersRendah,17983300,volumeRendah,1704992400,nilaiRendah,516,freqRendah
+536,NIKL,Pelat Timah Nusantara Tbk.,Utama,Basic Materials,-15,700,-2.10%,gainersRendah,241900,volumeRendah,171389500,nilaiRendah,131,freqRendah
+537,NIPS,Nipress Tbk.,Pengembangan,Cyclic,0,282,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+538,NIRO,City Retail Developments Tbk.,Pengembangan,Properties & Real Estate,0,140,0.00%,gainersRendah,13300,volumeRendah,1814400,nilaiRendah,8,freqRendah
+539,NISP,Bank OCBC NISP Tbk.,Utama,Financials,0,745,0.00%,gainersRendah,5737100,volumeRendah,4249152500,nilaiRendah,411,freqRendah
+540,NOBU,Bank Nationalnobu Tbk.,Utama,Financials,-15,545,-2.68%,gainersRendah,437700,volumeRendah,241624500,nilaiRendah,132,freqRendah
+541,NPGF,Nusa Palapa Gemilang Tbk.,Utama,Basic Materials,0,50,0.00%,gainersRendah,1158100,volumeRendah,57905000,nilaiRendah,34,freqRendah
+542,NRCA,Nusa Raya Cipta Tbk.,Utama,Infrasctructures,2,296,0.68%,gainersRendah,143200,volumeRendah,42214200,nilaiRendah,122,freqRendah
+543,NTBK,Nusatama Berkah Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,18000,volumeRendah,900000,nilaiRendah,19,freqRendah
+544,NUSA,Sinergi Megah Internusa Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+545,NZIA,Nusantara Almazia Tbk.,Utama,Properties & Real Estate,-1,145,-0.68%,gainersRendah,976500,volumeRendah,140775700,nilaiRendah,407,freqRendah
+546,OASA,Maharaksa Biru Energi Tbk.,Pengembangan,Infrasctructures,-25,1025,-2.38%,gainersRendah,1199000,volumeRendah,1222742000,nilaiRendah,535,freqRendah
+547,OBMD,OBM Drilchem Tbk.,Pengembangan,Basic Materials,10,266,3.91%,gainersSedang gainersRendah,13363500,volumeRendah,3580373400,nilaiRendah,2272,freqRendah
+548,OCAP,Onix Capital Tbk.,Pengembangan,Financials,0,159,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+549,OILS,Indo Oil Perkasa Tbk.,Pengembangan,Noncyc,2,218,0.93%,gainersRendah,397000,volumeRendah,85678000,nilaiRendah,83,freqRendah
+550,OKAS,Ancora Indonesia Resources Tbk.,Pengembangan,Basic Materials,-11,157,-6.55%,gainersRendah,49656000,volumeSedang volumeRendah,8152577600,nilaiRendah,4411,freqSedang freqRendah
+551,OLIV,Oscar Mitra Sukses Sejahtera Tbk.,Akselerasi,Cyclic,1,31,3.33%,gainersSedang gainersRendah,2415300,volumeRendah,73162000,nilaiRendah,127,freqRendah
+552,OMRE,Indonesia Prima Property Tbk,Pengembangan,Properties & Real Estate,65,715,10.00%,gainersTinggi gainersSedang gainersRendah,65400,volumeRendah,46761000,nilaiRendah,14,freqRendah
+553,OPMS,Optima Prima Metal Sinergi Tbk.,Pengembangan,Basic Materials,-2,124,-1.59%,gainersRendah,15976700,volumeRendah,1993552400,nilaiRendah,5720,freqSedang freqRendah
+554,PADI,Minna Padi Investama Sekuritas Tbk.,Utama,Financials,0,50,0.00%,gainersRendah,2400,volumeRendah,120000,nilaiRendah,1,freqRendah
+555,PALM,Provident Investasi Bersama Tbk.,Pengembangan,Noncyc,-30,715,-4.03%,gainersRendah,2366600,volumeRendah,1694229000,nilaiRendah,534,freqRendah
+556,PAMG,Bima Sakti Pertiwi Tbk.,Utama,Properties & Real Estate,1,81,1.25%,gainersRendah,329800,volumeRendah,26668200,nilaiRendah,48,freqRendah
+557,PANI,Pratama Abadi Nusa Industri Tbk.,Pengembangan,Noncyc,125,1115,12.63%,gainersTinggi gainersSedang gainersRendah,36860700,volumeSedang volumeRendah,40165645000,nilaiSedang nilaiRendah,8693,freqSedang freqRendah
+558,PANR,Panorama Sentrawisata Tbk.,Utama,Cyclic,4,370,1.09%,gainersRendah,5579300,volumeRendah,2003538800,nilaiRendah,1138,freqRendah
+559,PANS,Panin Sekuritas Tbk.,Utama,Financials,-40,2020,-1.94%,gainersRendah,146200,volumeRendah,295196000,nilaiRendah,218,freqRendah
+560,PBID,Panca Budi Idaman Tbk.,Utama,Basic Materials,0,1605,0.00%,gainersRendah,732400,volumeRendah,1179016500,nilaiRendah,89,freqRendah
+561,PBRX,Pan Brothers Tbk.,Utama,Cyclic,25,135,22.73%,gainersTinggi gainersSedang gainersRendah,1101971300,volumeTinggi volumeSedang volumeRendah,141292570300,nilaiSedang nilaiRendah,50087,freqTinggi freqSedang freqRendah
+562,PBSA,Paramita Bangun Sarana Tbk.,Utama,Infrasctructures,-2,310,-0.64%,gainersRendah,459400,volumeRendah,141930000,nilaiRendah,108,freqRendah
+563,PCAR,Prima Cakrawala Abadi Tbk.,Pengembangan,Noncyc,-5,143,-3.38%,gainersRendah,5858200,volumeRendah,850434000,nilaiRendah,1125,freqRendah
+564,PDES,Destinasi Tirta Nusantara Tbk,Pengembangan,Cyclic,2,314,0.64%,gainersRendah,2653900,volumeRendah,826304400,nilaiRendah,155,freqRendah
+565,PEGE,Panca Global Kapital Tbk.,Pengembangan,Financials,10,690,1.47%,gainersRendah,58100,volumeRendah,38554500,nilaiRendah,49,freqRendah
+566,PEHA,Phapros Tbk.,Utama,Healthcare,10,840,1.20%,gainersRendah,65200,volumeRendah,54389500,nilaiRendah,36,freqRendah
+567,PGAS,Perusahaan Gas Negara Tbk.,Utama,Energy,5,1945,0.26%,gainersRendah,69527600,volumeSedang volumeRendah,133690746500,nilaiSedang nilaiRendah,7892,freqSedang freqRendah
+568,PGJO,Tourindo Guide Indonesia Tbk.,Akselerasi,Technology,0,70,0.00%,gainersRendah,2200,volumeRendah,153800,nilaiRendah,7,freqRendah
+569,PGLI,Pembangunan Graha Lestari Indah Tbk.,Pengembangan,Cyclic,4,284,1.43%,gainersRendah,111900,volumeRendah,30427200,nilaiRendah,48,freqRendah
+570,PGUN,Pradiksi Gunatama Tbk.,Utama,Noncyc,0,535,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+571,PICO,Pelangi Indah Canindo Tbk,Pengembangan,Basic Materials,74,466,18.88%,gainersTinggi gainersSedang gainersRendah,190985500,volumeSedang volumeRendah,84259473200,nilaiSedang nilaiRendah,40086,freqTinggi freqSedang freqRendah
+572,PJAA,Pembangunan Jaya Ancol Tbk.,Utama,Cyclic,-5,700,-0.71%,gainersRendah,198900,volumeRendah,138232000,nilaiRendah,103,freqRendah
+573,PKPK,Perdana Karya Perkasa Tbk,Pengembangan,Energy,4,278,1.46%,gainersRendah,1647100,volumeRendah,454032000,nilaiRendah,317,freqRendah
+574,PLAN,Planet Properindo Jaya Tbk.,Akselerasi,Cyclic,0,29,0.00%,gainersRendah,245800,volumeRendah,7020100,nilaiRendah,37,freqRendah
+575,PLAS,Polaris Investama Tbk,Pengembangan,Financials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+576,PLIN,Plaza Indonesia Realty Tbk.,Utama,Properties & Real Estate,-10,2160,-0.46%,gainersRendah,800,volumeRendah,1734000,nilaiRendah,4,freqRendah
+577,PMJS,Putra Mandiri Jembar Tbk.,Pengembangan,Cyclic,-1,172,-0.58%,gainersRendah,115900,volumeRendah,19967500,nilaiRendah,37,freqRendah
+578,PMMP,Panca Mitra Multiperdana Tbk.,Utama,Noncyc,-2,382,-0.52%,gainersRendah,6614700,volumeRendah,2516668400,nilaiRendah,453,freqRendah
+579,PNBN,Bank Pan Indonesia Tbk,Utama,Financials,-160,2250,-6.64%,gainersRendah,12479500,volumeRendah,28313837000,nilaiSedang nilaiRendah,1543,freqRendah
+580,PNBS,Bank Panin Dubai Syariah Tbk.,Utama,Financials,-4,77,-4.94%,gainersRendah,228192400,volumeSedang volumeRendah,17835952900,nilaiSedang nilaiRendah,7258,freqSedang freqRendah
+581,PNGO,Pinago Utama Tbk.,Pengembangan,Basic Materials,25,1325,1.92%,gainersRendah,26700,volumeRendah,35323000,nilaiRendah,52,freqRendah
+582,PNIN,Paninvest Tbk.,Utama,Financials,-120,1595,-7.00%,gainersRendah,27223700,volumeSedang volumeRendah,43959716500,nilaiSedang nilaiRendah,2891,freqSedang freqRendah
+583,PNLF,Panin Financial Tbk.,Utama,Financials,-40,545,-6.84%,gainersRendah,182517000,volumeSedang volumeRendah,100455549000,nilaiSedang nilaiRendah,5124,freqSedang freqRendah
+584,PNSE,Pudjiadi & Sons Tbk.,Pengembangan,Cyclic,-15,505,-2.88%,gainersRendah,200,volumeRendah,101000,nilaiRendah,1,freqRendah
+585,POLA,Pool Advista Finance Tbk.,Pengembangan,Financials,-3,111,-2.63%,gainersRendah,70139200,volumeSedang volumeRendah,8396261600,nilaiRendah,6753,freqSedang freqRendah
+586,POLI,Pollux Hotels Group Tbk.,Pengembangan,Properties & Real Estate,-5,870,-0.57%,gainersRendah,1771400,volumeRendah,1543399000,nilaiRendah,359,freqRendah
+587,POLL,Pollux Properties Indonesia Tbk.,Pengembangan,Properties & Real Estate,2,296,0.68%,gainersRendah,32000,volumeRendah,9602600,nilaiRendah,49,freqRendah
+588,POLU,Golden Flower Tbk.,Pengembangan,Cyclic,13,505,2.64%,gainersSedang gainersRendah,25400,volumeRendah,12043500,nilaiRendah,19,freqRendah
+589,POLY,Asia Pacific Fibers Tbk,Pengembangan,Cyclic,0,67,0.00%,gainersRendah,13273900,volumeRendah,915124900,nilaiRendah,1013,freqRendah
+590,POOL,Pool Advista Indonesia Tbk.,Pengembangan,Financials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+591,PORT,Nusantara Pelabuhan Handal Tbk.,Pengembangan,Infrasctructures,155,780,24.80%,gainersTinggi gainersSedang gainersRendah,107900,volumeRendah,81964500,nilaiRendah,176,freqRendah
+592,POSA,Bliss Properti Indonesia Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+593,POWR,Cikarang Listrindo Tbk.,Utama,Infrasctructures,-10,675,-1.46%,gainersRendah,1260400,volumeRendah,852949000,nilaiRendah,429,freqRendah
+594,PPGL,Prima Globalindo Logistik Tbk.,Akselerasi,Transportation & Logistic,1,114,0.88%,gainersRendah,443200,volumeRendah,50090100,nilaiRendah,92,freqRendah
+595,PPRE,PP Presisi Tbk.,Utama,Infrasctructures,-1,143,-0.69%,gainersRendah,418000,volumeRendah,59650800,nilaiRendah,98,freqRendah
+596,PPRO,PP Properti Tbk.,Utama,Properties & Real Estate,0,50,0.00%,gainersRendah,6911700,volumeRendah,345586600,nilaiRendah,268,freqRendah
+597,PRAS,Prima Alloy Steel Universal Tbk.,Utama,Cyclic,0,182,0.00%,gainersRendah,11600,volumeRendah,2111200,nilaiRendah,5,freqRendah
+598,PRDA,Prodia Widyahusada Tbk.,Utama,Healthcare,-50,5400,-0.92%,gainersRendah,299600,volumeRendah,1611847500,nilaiRendah,165,freqRendah
+599,PRIM,Royal Prima Tbk.,Pengembangan,Healthcare,0,206,0.00%,gainersRendah,355000,volumeRendah,72776600,nilaiRendah,111,freqRendah
+600,PSAB,J Resources Asia Pasifik Tbk.,Pengembangan,Basic Materials,-1,114,-0.87%,gainersRendah,1339300,volumeRendah,153860800,nilaiRendah,103,freqRendah
+601,PSDN,Prasidha Aneka Niaga Tbk,Pengembangan,Noncyc,-2,107,-1.83%,gainersRendah,674900,volumeRendah,72431600,nilaiRendah,116,freqRendah
+602,PSGO,Palma Serasih Tbk.,Pengembangan,Noncyc,-1,152,-0.65%,gainersRendah,1246500,volumeRendah,184091800,nilaiRendah,1601,freqRendah
+603,PSKT,Red Planet Indonesia Tbk.,Pengembangan,Cyclic,0,77,0.00%,gainersRendah,10981100,volumeRendah,844027100,nilaiRendah,508,freqRendah
+604,PSSI,Pelita Samudera Shipping Tbk.,Utama,Energy,-20,575,-3.36%,gainersRendah,3113900,volumeRendah,1791451000,nilaiRendah,692,freqRendah
+605,PTBA,Bukit Asam Tbk.,Utama,Energy,0,3750,0.00%,gainersRendah,21864700,volumeSedang volumeRendah,82277061000,nilaiSedang nilaiRendah,7293,freqSedang freqRendah
+606,PTDU,Djasa Ubersakti Tbk.,Pengembangan,Infrasctructures,-1,73,-1.35%,gainersRendah,3193500,volumeRendah,232556800,nilaiRendah,367,freqRendah
+607,PTIS,Indo Straits Tbk.,Utama,Energy,-8,220,-3.51%,gainersRendah,33900,volumeRendah,7511800,nilaiRendah,29,freqRendah
+608,PTPP,PP (Persero) Tbk.,Utama,Infrasctructures,-20,870,-2.25%,gainersRendah,15013700,volumeRendah,13076294500,nilaiRendah,2673,freqSedang freqRendah
+609,PTPW,Pratama Widya Tbk.,Pengembangan,Infrasctructures,30,880,3.53%,gainersSedang gainersRendah,90000,volumeRendah,78328000,nilaiRendah,132,freqRendah
+610,PTRO,Petrosea Tbk.,Utama,Energy,10,2930,0.34%,gainersRendah,45800,volumeRendah,133082000,nilaiRendah,62,freqRendah
+611,PTSN,Sat Nusapersada Tbk,Utama,Technology,-4,194,-2.02%,gainersRendah,2064700,volumeRendah,401487200,nilaiRendah,292,freqRendah
+612,PTSP,Pioneerindo Gourmet International Tbk.,Pengembangan,Cyclic,-230,3390,-6.35%,gainersRendah,100,volumeRendah,339000,nilaiRendah,1,freqRendah
+613,PUDP,Pudjiadi Prestige Tbk.,Utama,Properties & Real Estate,0,392,0.00%,gainersRendah,300,volumeRendah,117600,nilaiRendah,2,freqRendah
+614,PURA,Putra Rajawali Kencana Tbk.,Pengembangan,Transportation & Logistic,0,50,0.00%,gainersRendah,698400,volumeRendah,34920000,nilaiRendah,55,freqRendah
+615,PURE,Trinitan Metals and Minerals Tbk.,Utama,Basic Materials,0,51,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+616,PURI,Puri Global Sukses Tbk.,Pengembangan,Properties & Real Estate,2,354,0.57%,gainersRendah,5900,volumeRendah,2064200,nilaiRendah,21,freqRendah
+617,PWON,Pakuwon Jati Tbk.,Utama,Properties & Real Estate,-4,444,-0.89%,gainersRendah,16533100,volumeRendah,7358708600,nilaiRendah,2038,freqRendah
+618,PYFA,Pyridam Farma Tbk,Pengembangan,Healthcare,25,920,2.79%,gainersSedang gainersRendah,400,volumeRendah,362000,nilaiRendah,3,freqRendah
+619,PZZA,Sarimelati Kencana Tbk.,Utama,Cyclic,-10,520,-1.89%,gainersRendah,1740600,volumeRendah,901963500,nilaiRendah,166,freqRendah
+620,RAFI,Sari Kreasi Boga Tbk.,Pengembangan,Cyclic,-4,144,-2.70%,gainersRendah,53618600,volumeSedang volumeRendah,7918582300,nilaiRendah,6710,freqSedang freqRendah
+621,RAJA,Rukun Raharja Tbk.,Utama,Energy,30,1020,3.03%,gainersSedang gainersRendah,44994000,volumeSedang volumeRendah,45487396500,nilaiSedang nilaiRendah,3939,freqSedang freqRendah
+622,RALS,Ramayana Lestari Sentosa Tbk.,Utama,Cyclic,-10,575,-1.71%,gainersRendah,10827700,volumeRendah,6248473000,nilaiRendah,649,freqRendah
+623,RANC,Supra Boga Lestari Tbk.,Pengembangan,Noncyc,120,1130,11.88%,gainersTinggi gainersSedang gainersRendah,521300,volumeRendah,574340500,nilaiRendah,477,freqRendah
+624,RBMS,Ristia Bintang Mahkotasejati Tbk.,Utama,Properties & Real Estate,0,50,0.00%,gainersRendah,914700,volumeRendah,45735000,nilaiRendah,67,freqRendah
+625,RCCC,Utama Radar Cahaya Tbk.,Akselerasi,Transportation & Logistic,-2,112,-1.75%,gainersRendah,949800,volumeRendah,108401600,nilaiRendah,1141,freqRendah
+626,RDTX,Roda Vivatex Tbk,Utama,Properties & Real Estate,0,8775,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+627,REAL,Repower Asia Indonesia Tbk.,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,1100,volumeRendah,55000,nilaiRendah,3,freqRendah
+628,RELI,Reliance Sekuritas Indonesia Tbk.,Utama,Financials,35,680,5.43%,gainersSedang gainersRendah,9700,volumeRendah,6154000,nilaiRendah,26,freqRendah
+629,RICY,Ricky Putra Globalindo Tbk,Utama,Cyclic,-2,108,-1.82%,gainersRendah,4586300,volumeRendah,502096100,nilaiRendah,515,freqRendah
+630,RIGS,Rig Tenders Indonesia Tbk.,Pengembangan,Energy,-5,545,-0.91%,gainersRendah,599300,volumeRendah,328860500,nilaiRendah,78,freqRendah
+631,RIMO,Rimo International Lestari Tbk,Pengembangan,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+632,RISE,Jaya Sukses Makmur Sentosa Tbk.,Pengembangan,Properties & Real Estate,0,1025,0.00%,gainersRendah,1041800,volumeRendah,1061640000,nilaiRendah,136,freqRendah
+633,RMBA,Bentoel Internasional Investama Tbk.,Utama,Noncyc,0,306,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+634,RMKE,RMK Energy Tbk.,Utama,Energy,-20,1005,-1.95%,gainersRendah,21184200,volumeRendah,21552240500,nilaiSedang nilaiRendah,1769,freqRendah
+635,ROCK,Rockfields Properti Indonesia Tbk.,Pengembangan,Properties & Real Estate,16,442,3.76%,gainersSedang gainersRendah,7900,volumeRendah,3540600,nilaiRendah,8,freqRendah
+636,RODA,Pikko Land Development Tbk.,Pengembangan,Properties & Real Estate,-1,74,-1.33%,gainersRendah,411800,volumeRendah,29982100,nilaiRendah,65,freqRendah
+637,RONY,Aesler Grup Internasional Tbk.,Pengembangan,Infrasctructures,0,800,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+638,ROTI,Nippon Indosari Corpindo Tbk.,Utama,Noncyc,30,1300,2.36%,gainersSedang gainersRendah,2157600,volumeRendah,2807903500,nilaiRendah,897,freqRendah
+639,RSGK,Kedoya Adyaraya Tbk.,Utama,Healthcare,0,1220,0.00%,gainersRendah,3700,volumeRendah,4336500,nilaiRendah,10,freqRendah
+640,RUIS,Radiant Utama Interinsco Tbk.,Pengembangan,Energy,-2,224,-0.88%,gainersRendah,445300,volumeRendah,100223200,nilaiRendah,185,freqRendah
+641,RUNS,Global Sukses Solusi Tbk.,Akselerasi,Technology,-4,204,-1.92%,gainersRendah,164300,volumeRendah,33016600,nilaiRendah,109,freqRendah
+642,SAFE,Steady Safe Tbk,Pengembangan,Transportation & Logistic,-2,206,-0.96%,gainersRendah,1000500,volumeRendah,207632000,nilaiRendah,947,freqRendah
+643,SAME,Sarana Meditama Metropolitan Tbk.,Pengembangan,Healthcare,-2,284,-0.70%,gainersRendah,3523900,volumeRendah,1001477800,nilaiRendah,267,freqRendah
+644,SAMF,Saraswanti Anugerah Makmur Tbk.,Utama,Basic Materials,-6,448,-1.32%,gainersRendah,2429500,volumeRendah,1091939600,nilaiRendah,563,freqRendah
+645,SAPX,Satria Antaran Prima Tbk.,Pengembangan,Transportation & Logistic,-20,725,-2.68%,gainersRendah,9100,volumeRendah,6803000,nilaiRendah,18,freqRendah
+646,SATU,Kota Satu Properti Tbk.,Pengembangan,Properties & Real Estate,-1,74,-1.33%,gainersRendah,3079900,volumeRendah,227218300,nilaiRendah,195,freqRendah
+647,SBAT,Sejahtera Bintang Abadi Textile Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,200,volumeRendah,10000,nilaiRendah,2,freqRendah
+648,SBMA,Surya Biru Murni Acetylene Tbk.,Pengembangan,Basic Materials,-4,230,-1.71%,gainersRendah,4838100,volumeRendah,1115533200,nilaiRendah,704,freqRendah
+649,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,Utama,Industrials,-25,8375,-0.30%,gainersRendah,2000,volumeRendah,16612500,nilaiRendah,11,freqRendah
+650,SCMA,Surya Citra Media Tbk.,Utama,Cyclic,2,240,0.84%,gainersRendah,143206300,volumeSedang volumeRendah,34367521800,nilaiSedang nilaiRendah,7935,freqSedang freqRendah
+651,SCNP,Selaras Citra Nusantara Perkasa Tbk.,Pengembangan,Cyclic,0,246,0.00%,gainersRendah,111800,volumeRendah,27335400,nilaiRendah,13,freqRendah
+652,SCPI,Organon Pharma Indonesia Tbk.,Pengembangan,Healthcare,0,29000,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+653,SDMU,Sidomulyo Selaras Tbk.,Pengembangan,Transportation & Logistic,-2,81,-2.41%,gainersRendah,4419600,volumeRendah,362070400,nilaiRendah,760,freqRendah
+654,SDPC,Millennium Pharmacon International Tbk.,Utama,Noncyc,0,125,0.00%,gainersRendah,15500,volumeRendah,1937500,nilaiRendah,6,freqRendah
+655,SDRA,Bank Woori Saudara Indonesia 1906 Tbk.,Utama,Financials,-5,590,-0.84%,gainersRendah,98900,volumeRendah,58623500,nilaiRendah,30,freqRendah
+656,SEMA,Semacom Integrated Tbk.,Pengembangan,Energy,1,158,0.64%,gainersRendah,2412500,volumeRendah,379393300,nilaiRendah,499,freqRendah
+657,SFAN,Surya Fajar Capital Tbk.,Pengembangan,Financials,5,1765,0.28%,gainersRendah,528700,volumeRendah,932060000,nilaiRendah,200,freqRendah
+658,SGER,Sumber Global Energy Tbk.,Pengembangan,Energy,-5,660,-0.75%,gainersRendah,770100,volumeRendah,508395000,nilaiRendah,471,freqRendah
+659,SGRO,Sampoerna Agro Tbk.,Utama,Noncyc,-10,2230,-0.45%,gainersRendah,202900,volumeRendah,452701000,nilaiRendah,153,freqRendah
+660,SHID,Hotel Sahid Jaya International Tbk.,Pengembangan,Cyclic,-20,1565,-1.26%,gainersRendah,6617900,volumeRendah,10521368000,nilaiRendah,925,freqRendah
+661,SHIP,Sillo Maritime Perdana Tbk.,Utama,Energy,65,900,7.78%,gainersSedang gainersRendah,3435400,volumeRendah,3026209000,nilaiRendah,876,freqRendah
+662,SICO,Sigma Energy Compressindo Tbk.,Pengembangan,Energy,-7,197,-3.43%,gainersRendah,33208100,volumeSedang volumeRendah,6624701400,nilaiRendah,4309,freqSedang freqRendah
+663,SIDO,Industri Jamu dan Farmasi Sido Muncul Tbk.,Utama,Healthcare,0,740,0.00%,gainersRendah,16484400,volumeRendah,12147185500,nilaiRendah,3501,freqSedang freqRendah
+664,SILO,Siloam International Hospitals Tbk.,Utama,Healthcare,-30,1100,-2.65%,gainersRendah,2952400,volumeRendah,3265496000,nilaiRendah,606,freqRendah
+665,SIMA,Siwani Makmur Tbk,Pengembangan,Basic Materials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+666,SIMP,Salim Ivomas Pratama Tbk.,Utama,Noncyc,-2,430,-0.46%,gainersRendah,1100500,volumeRendah,472727000,nilaiRendah,210,freqRendah
+667,SINI,Singaraja Putra Tbk.,Pengembangan,Industrials,2,202,1.00%,gainersRendah,3801200,volumeRendah,809636800,nilaiRendah,1293,freqRendah
+668,SIPD,Sreeya Sewu Indonesia Tbk.,Pengembangan,Noncyc,-5,1110,-0.45%,gainersRendah,1300,volumeRendah,1405000,nilaiRendah,4,freqRendah
+669,SKBM,Sekar Bumi Tbk.,Pengembangan,Noncyc,-18,380,-4.52%,gainersRendah,117900,volumeRendah,44122000,nilaiRendah,76,freqRendah
+670,SKLT,Sekar Laut Tbk.,Pengembangan,Noncyc,-95,1955,-4.63%,gainersRendah,2400,volumeRendah,4797000,nilaiRendah,6,freqRendah
+671,SKRN,Superkrane Mitra Utama Tbk.,Pengembangan,Industrials,-85,1605,-5.03%,gainersRendah,86300,volumeRendah,139770000,nilaiRendah,90,freqRendah
+672,SKYB,Northcliff Citranusa Indonesia Tbk.,Pengembangan,Technology,0,51,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+673,SLIS,Gaya Abadi Sempurna Tbk.,Pengembangan,Cyclic,-18,244,-6.87%,gainersRendah,44689700,volumeSedang volumeRendah,11151444000,nilaiRendah,5272,freqSedang freqRendah
+674,SMAR,Smart Tbk.,Pengembangan,Noncyc,25,5400,0.47%,gainersRendah,312500,volumeRendah,1656625000,nilaiRendah,197,freqRendah
+675,SMBR,Semen Baturaja (Persero) Tbk.,Utama,Basic Materials,20,462,4.52%,gainersSedang gainersRendah,29696500,volumeSedang volumeRendah,13823662200,nilaiSedang nilaiRendah,4350,freqSedang freqRendah
+676,SMCB,Solusi Bangun Indonesia Tbk.,Utama,Basic Materials,20,1475,1.37%,gainersRendah,873400,volumeRendah,1273547500,nilaiRendah,122,freqRendah
+677,SMDM,Suryamas DUtamakmur Tbk.,Pengembangan,Properties & Real Estate,10,268,3.88%,gainersSedang gainersRendah,8906700,volumeRendah,2347007000,nilaiRendah,1681,freqRendah
+678,SMDR,Samudera Indonesia  Tbk.,Utama,Transportation & Logistic,20,2490,0.81%,gainersRendah,14030100,volumeRendah,35258578000,nilaiSedang nilaiRendah,4975,freqSedang freqRendah
+679,SMGR,Semen Indonesia (Persero) Tbk.,Utama,Basic Materials,225,8250,2.80%,gainersSedang gainersRendah,18255100,volumeRendah,150213895000,nilaiSedang nilaiRendah,6301,freqSedang freqRendah
+680,SMKL,Satyamitra Kemas Lestari Tbk.,Utama,Basic Materials,10,290,3.57%,gainersSedang gainersRendah,2561900,volumeRendah,745438800,nilaiRendah,887,freqRendah
+681,SMKM,Sumber Mas Konstruksi Tbk.,Akselerasi,Infrasctructures,-10,520,-1.89%,gainersRendah,509700,volumeRendah,260285800,nilaiRendah,148,freqRendah
+682,SMMA,Sinarmas Multiartha Tbk.,Utama,Financials,0,12400,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+683,SMMT,Golden Eagle Energy Tbk.,Pengembangan,Energy,-25,640,-3.76%,gainersRendah,7492500,volumeRendah,4843742000,nilaiRendah,7074,freqSedang freqRendah
+684,SMRA,Summarecon Agung Tbk.,Utama,Properties & Real Estate,-5,565,-0.88%,gainersRendah,15527600,volumeRendah,8763044000,nilaiRendah,7978,freqSedang freqRendah
+685,SMRU,SMR Utama Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+686,SMSM,Selamat Sempurna Tbk.,Utama,Cyclic,-10,1560,-0.64%,gainersRendah,2796600,volumeRendah,4420122000,nilaiRendah,683,freqRendah
+687,SNLK,Sunter Lakeside Hotel Tbk.,Pengembangan,Cyclic,0,975,0.00%,gainersRendah,3652300,volumeRendah,3543989500,nilaiRendah,708,freqRendah
+688,SOCI,Soechi Lines Tbk.,Utama,Energy,-1,197,-0.51%,gainersRendah,7982500,volumeRendah,1578885700,nilaiRendah,1725,freqRendah
+689,SOFA,Boston Furniture Industries Tbk.,Akselerasi,Cyclic,0,30,0.00%,gainersRendah,505900,volumeRendah,14796200,nilaiRendah,47,freqRendah
+690,SOHO,Soho Global Health Tbk.,Utama,Healthcare,75,5750,1.32%,gainersRendah,8300,volumeRendah,45777500,nilaiRendah,36,freqRendah
+691,SONA,Sona Topas Tourism Industry Tbk.,Utama,Cyclic,0,4490,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+692,SOSS,Shield On Service Tbk.,Pengembangan,Industrials,-30,505,-5.61%,gainersRendah,1342400,volumeRendah,699030000,nilaiRendah,371,freqRendah
+693,SOTS,Satria Mega Kencana Tbk.,Pengembangan,Cyclic,6,278,2.21%,gainersSedang gainersRendah,900,volumeRendah,253200,nilaiRendah,6,freqRendah
+694,SPMA,Suparma Tbk.,Utama,Basic Materials,30,570,5.56%,gainersSedang gainersRendah,4151300,volumeRendah,2332228000,nilaiRendah,993,freqRendah
+695,SPTO,Surya Pertiwi Tbk.,Utama,Industrials,5,580,0.87%,gainersRendah,221700,volumeRendah,127968000,nilaiRendah,124,freqRendah
+696,SQMI,Wilton Makmur Indonesia Tbk.,Pengembangan,Basic Materials,1,82,1.23%,gainersRendah,15137900,volumeRendah,1226824100,nilaiRendah,652,freqRendah
+697,SRAJ,Sejahteraraya Anugrahjaya Tbk.,Utama,Healthcare,0,515,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+698,SRIL,Sri Rejeki Isman Tbk.,Pengembangan,Cyclic,0,146,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+699,SRSN,Indo Acidatama Tbk,Utama,Basic Materials,0,53,0.00%,gainersRendah,1237600,volumeRendah,65581600,nilaiRendah,49,freqRendah
+700,SRTG,Saratoga Investama Sedaya Tbk.,Utama,Financials,0,2510,0.00%,gainersRendah,16135000,volumeRendah,40294095000,nilaiSedang nilaiRendah,3636,freqSedang freqRendah
+701,SSIA,Surya Semesta Internusa Tbk.,Utama,Infrasctructures,-4,300,-1.32%,gainersRendah,2292200,volumeRendah,685999800,nilaiRendah,466,freqRendah
+702,SSMS,Sawit Sumbermas Sarana Tbk.,Utama,Noncyc,-10,1400,-0.71%,gainersRendah,13040300,volumeRendah,18296837500,nilaiSedang nilaiRendah,702,freqRendah
+703,SSTM,Sunson Textile Manufacture Tbk,Pengembangan,Cyclic,10,795,1.27%,gainersRendah,25200,volumeRendah,19582000,nilaiRendah,5,freqRendah
+704,STAA,Sumber Tani Agung Resources Tbk.,Utama,Noncyc,0,1130,0.00%,gainersRendah,9178900,volumeRendah,10282763500,nilaiRendah,332,freqRendah
+705,STAR,Buana Artha Anugerah Tbk.,Utama,Financials,-1,150,-0.66%,gainersRendah,700,volumeRendah,105600,nilaiRendah,3,freqRendah
+706,STTP,Siantar Top Tbk.,Pengembangan,Noncyc,-175,7575,-2.26%,gainersRendah,700,volumeRendah,5317500,nilaiRendah,2,freqRendah
+707,SUGI,Sugih Energy Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+708,SULI,SLJ Global Tbk.,Pengembangan,Basic Materials,7,130,5.69%,gainersSedang gainersRendah,15990600,volumeRendah,2004190300,nilaiRendah,1783,freqRendah
+709,SUPR,Solusi Tunas Pratama Tbk.,Pengembangan,Infrasctructures,0,38425,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+710,SURE,Super Energy Tbk.,Pengembangan,Energy,-5,1625,-0.31%,gainersRendah,100,volumeRendah,162500,nilaiRendah,1,freqRendah
+711,SWAT,Sriwahana Adityakarta Tbk.,Pengembangan,Basic Materials,0,57,0.00%,gainersRendah,113000,volumeRendah,6434100,nilaiRendah,65,freqRendah
+712,SWID,Saraswanti Indoland Development Tbk.,Pengembangan,Properties & Real Estate,-1,114,-0.87%,gainersRendah,2762300,volumeRendah,314148900,nilaiRendah,339,freqRendah
+713,TALF,Tunas Alfin Tbk.,Pengembangan,Basic Materials,-18,310,-5.49%,gainersRendah,19900,volumeRendah,6332000,nilaiRendah,33,freqRendah
+714,TAMA,Lancartama Sejati Tbk.,Pengembangan,Infrasctructures,0,50,0.00%,gainersRendah,20300,volumeRendah,1015000,nilaiRendah,4,freqRendah
+715,TAMU,Pelayaran Tamarin Samudra Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+716,TAPG,Triputra Agro Persada Tbk.,Utama,Noncyc,5,685,0.74%,gainersRendah,14492800,volumeRendah,9815010000,nilaiRendah,1689,freqRendah
+717,TARA,Agung Semesta Sejahtera Tbk.,Utama,Properties & Real Estate,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+718,TAXI,Express Transindo Utama Tbk.,Utama,Transportation & Logistic,0,50,0.00%,gainersRendah,500,volumeRendah,25000,nilaiRendah,2,freqRendah
+719,TAYS,Jaya Swarasa Agung Tbk.,Pengembangan,Noncyc,0,660,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+720,TBIG,Tower Bersama Infrastructure Tbk.,Utama,Infrasctructures,-130,2320,-5.31%,gainersRendah,21380700,volumeRendah,50083063000,nilaiSedang nilaiRendah,5459,freqSedang freqRendah
+721,TBLA,Tunas Baru Lampung Tbk.,Utama,Noncyc,-5,705,-0.70%,gainersRendah,774700,volumeRendah,546533500,nilaiRendah,111,freqRendah
+722,TBMS,Tembaga Mulia Semanan Tbk.,Pengembangan,Basic Materials,-5,1540,-0.32%,gainersRendah,3200,volumeRendah,4810500,nilaiRendah,9,freqRendah
+723,TCID,Mandom Indonesia Tbk.,Utama,Noncyc,-150,5850,-2.50%,gainersRendah,8900,volumeRendah,52037500,nilaiRendah,14,freqRendah
+724,TCPI,Transcoal Pacific Tbk.,Pengembangan,Energy,125,10700,1.18%,gainersRendah,31461600,volumeSedang volumeRendah,334155977500,nilaiTinggi nilaiSedang nilaiRendah,27130,freqTinggi freqSedang freqRendah
+725,TDPM,Tridomain Performance Materials Tbk.,Pengembangan,Basic Materials,0,119,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+726,TEBE,Dana Brata Luhur Tbk.,Utama,Energy,-10,845,-1.17%,gainersRendah,550200,volumeRendah,466847000,nilaiRendah,156,freqRendah
+727,TECH,Indosterling Technomedia Tbk.,Pengembangan,Technology,-70,4630,-1.49%,gainersRendah,2648100,volumeRendah,12212238000,nilaiRendah,248,freqRendah
+728,TELE,Omni Inovasi Indonesia Tbk.,Pengembangan,Cyclic,0,50,0.00%,gainersRendah,2000,volumeRendah,100000,nilaiRendah,5,freqRendah
+729,TFAS,Telefast Indonesia Tbk.,Pengembangan,Technology,60,3210,1.90%,gainersRendah,9200,volumeRendah,29043000,nilaiRendah,18,freqRendah
+730,TFCO,Tifico Fiber Indonesia Tbk.,Pengembangan,Cyclic,0,660,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+731,TGKA,Tigaraksa Satria Tbk.,Pengembangan,Noncyc,0,7300,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+732,TGRA,Terregra Asia Energy Tbk.,Utama,Infrasctructures,0,50,0.00%,gainersRendah,21800,volumeRendah,1090000,nilaiRendah,6,freqRendah
+733,TIFA,KDB Tifa Finance Tbk.,Pengembangan,Financials,-5,520,-0.95%,gainersRendah,20700,volumeRendah,10857000,nilaiRendah,12,freqRendah
+734,TINS,Timah Tbk.,Utama,Basic Materials,20,1360,1.49%,gainersRendah,7578500,volumeRendah,10176406500,nilaiRendah,2061,freqRendah
+735,TIRA,Tira Austenite Tbk,Pengembangan,Industrials,-10,398,-2.45%,gainersRendah,3300,volumeRendah,1315600,nilaiRendah,19,freqRendah
+736,TIRT,Tirta Mahakam Resources Tbk,Pengembangan,Basic Materials,0,56,0.00%,gainersRendah,396200,volumeRendah,22184400,nilaiRendah,38,freqRendah
+737,TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,Utama,Basic Materials,450,8425,5.64%,gainersSedang gainersRendah,11559200,volumeRendah,96104135000,nilaiSedang nilaiRendah,7569,freqSedang freqRendah
+738,TLDN,Teladan Prima Agro Tbk.,Utama,Noncyc,-5,580,-0.85%,gainersRendah,234500,volumeRendah,135452500,nilaiRendah,46,freqRendah
+739,TLKM,Telkom Indonesia (Persero) Tbk.,Utama,Infrasctructures,80,4210,1.94%,gainersRendah,167150400,volumeSedang volumeRendah,692809676000,nilaiTinggi nilaiSedang nilaiRendah,14349,freqTinggi freqSedang freqRendah
+740,TMAS,Temas Tbk.,Utama,Transportation & Logistic,80,1960,4.26%,gainersSedang gainersRendah,1391000,volumeRendah,2687714500,nilaiRendah,1055,freqRendah
+741,TMPO,Tempo Intimedia Tbk.,Pengembangan,Cyclic,3,120,2.56%,gainersSedang gainersRendah,20100,volumeRendah,2412000,nilaiRendah,10,freqRendah
+742,TNCA,Trimuda Nuansa Citra Tbk.,Pengembangan,Transportation & Logistic,0,404,0.00%,gainersRendah,658300,volumeRendah,267308000,nilaiRendah,270,freqRendah
+743,TOBA,TBS Energi Utama Tbk.,Utama,Energy,20,645,3.20%,gainersSedang gainersRendah,4524300,volumeRendah,2871335000,nilaiRendah,669,freqRendah
+744,TOOL,Rohartindo Nusantara Luas Tbk.,Pengembangan,Cyclic,0,88,0.00%,gainersRendah,5451400,volumeRendah,481370600,nilaiRendah,524,freqRendah
+745,TOPS,Totalindo Eka Persada Tbk.,Utama,Infrasctructures,0,50,0.00%,gainersRendah,19300,volumeRendah,965000,nilaiRendah,7,freqRendah
+746,TOTL,Total Bangun Persada Tbk.,Utama,Infrasctructures,0,314,0.00%,gainersRendah,1902000,volumeRendah,593589400,nilaiRendah,240,freqRendah
+747,TOTO,Surya Toto Indonesia Tbk.,Pengembangan,Industrials,4,270,1.50%,gainersRendah,825200,volumeRendah,222631000,nilaiRendah,141,freqRendah
+748,TOWR,Sarana Menara Nusantara Tbk.,Utama,Infrasctructures,5,1160,0.43%,gainersRendah,63136200,volumeSedang volumeRendah,72102528000,nilaiSedang nilaiRendah,5640,freqSedang freqRendah
+749,TOYS,Sunindo Adipersada Tbk.,Pengembangan,Cyclic,-2,77,-2.53%,gainersRendah,7416700,volumeRendah,580407200,nilaiRendah,512,freqRendah
+750,TPIA,Chandra Asri Petrochemical Tbk.,Pengembangan,Basic Materials,60,2360,2.61%,gainersSedang gainersRendah,14156400,volumeRendah,32682306000,nilaiSedang nilaiRendah,2209,freqRendah
+751,TPMA,Trans Power Marine Tbk.,Pengembangan,Energy,0,380,0.00%,gainersRendah,2538800,volumeRendah,961874400,nilaiRendah,403,freqRendah
+752,TRAM,Trada Alam Minera Tbk.,Pengembangan,Energy,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+753,TRGU,Cerestar Indonesia Tbk.,Pengembangan,Noncyc,0,230,0.00%,gainersRendah,4192800,volumeRendah,964431400,nilaiRendah,335,freqRendah
+754,TRIL,Triwira Insanlestari Tbk.,Pengembangan,Industrials,0,50,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+755,TRIM,Trimegah Sekuritas Indonesia Tbk.,Utama,Financials,-8,272,-2.86%,gainersRendah,2681700,volumeRendah,738358400,nilaiRendah,490,freqRendah
+756,TRIN,Perintis Triniti Properti Tbk.,Pengembangan,Properties & Real Estate,2,274,0.74%,gainersRendah,8802600,volumeRendah,2470986200,nilaiRendah,985,freqRendah
+757,TRIO,Trikomsel Oke Tbk.,Pengembangan,Cyclic,0,426,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+758,TRIS,Trisula International Tbk.,Pengembangan,Cyclic,4,160,2.56%,gainersSedang gainersRendah,85800,volumeRendah,13684000,nilaiRendah,75,freqRendah
+759,TRJA,Transkon Jaya Tbk.,Utama,Transportation & Logistic,-4,248,-1.59%,gainersRendah,508700,volumeRendah,126272600,nilaiRendah,107,freqRendah
+760,TRST,Trias Sentosa Tbk.,Utama,Basic Materials,20,740,2.78%,gainersSedang gainersRendah,10000,volumeRendah,7400000,nilaiRendah,10,freqRendah
+761,TRUE,Triniti Dinamik Tbk.,Pengembangan,Transportation & Logistic,0,52,0.00%,gainersRendah,2935100,volumeRendah,153844100,nilaiRendah,363,freqRendah
+762,TRUK,Guna Timur Raya Tbk.,Pengembangan,Financials,0,117,0.00%,gainersRendah,836900,volumeRendah,97346500,nilaiRendah,139,freqRendah
+763,TRUS,Trust Finance Indonesia Tbk,Utama,Healthcare,0,432,0.00%,gainersRendah,2200,volumeRendah,954000,nilaiRendah,16,freqRendah
+764,TSPC,Tempo Scan Pacific Tbk.,Pengembangan,Financials,0,1350,0.00%,gainersRendah,476300,volumeRendah,642709000,nilaiRendah,159,freqRendah
+765,TUGU,Asuransi Tugu Pratama Indonesia Tbk.,Utama,Cyclic,0,2130,0.00%,gainersRendah,1888700,volumeRendah,3888738500,nilaiRendah,765,freqRendah
+766,TURI,Tunas Ridean Tbk.,Pengembangan,Cyclic,0,1560,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+767,UANG,Pakuan Tbk.,Utama,Noncyc,125,635,24.51%,gainersTinggi gainersSedang gainersRendah,339500,volumeRendah,210260500,nilaiRendah,292,freqRendah
+768,UCID,Uni-Charm Indonesia Tbk.,Pengembangan,Cyclic,-5,1095,-0.45%,gainersRendah,70400,volumeRendah,77062000,nilaiRendah,100,freqRendah
+769,UFOE,Damai Sejahtera Abadi Tbk.,Utama,Noncyc,0,330,0.00%,gainersRendah,47593600,volumeSedang volumeRendah,15233132200,nilaiSedang nilaiRendah,5048,freqSedang freqRendah
+770,ULTJ,"Ultra Jaya Milk Industry & Trading Company, Tbk.",Utama,Basic Materials,5,1350,0.37%,gainersRendah,916100,volumeRendah,1242842000,nilaiRendah,382,freqRendah
+771,UNIC,Unggul Indah Cahaya Tbk.,Utama,Energy,0,11175,0.00%,gainersRendah,1400,volumeRendah,15470000,nilaiRendah,5,freqRendah
+772,UNIQ,Ulima Nitra Tbk.,Pengembangan,Cyclic,-1,63,-1.56%,gainersRendah,2537600,volumeRendah,159079300,nilaiRendah,285,freqRendah
+773,UNIT,Nusantara Inti Corpora Tbk,Pengembangan,Noncyc,0,316,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+774,UNSP,Bakrie Sumatera Plantations Tbk.,Utama,Industrials,-4,135,-2.88%,gainersRendah,981200,volumeRendah,129189900,nilaiRendah,139,freqRendah
+775,UNTR,United Tractors Tbk.,Utama,Noncyc,275,31275,0.89%,gainersRendah,3267800,volumeRendah,100778735000,nilaiSedang nilaiRendah,5144,freqSedang freqRendah
+776,UNVR,Unilever Indonesia Tbk.,Pengembangan,Properties & Real Estate,30,4540,0.67%,gainersRendah,18632000,volumeRendah,83954709000,nilaiSedang nilaiRendah,8578,freqSedang freqRendah
+777,URBN,Urban Jakarta Propertindo Tbk.,Akselerasi,Technology,-3,179,-1.65%,gainersRendah,43400,volumeRendah,7817500,nilaiRendah,29,freqRendah
+778,UVCR,Trimegah Karya Pratama Tbk.,Utama,Noncyc,9,103,9.57%,gainersSedang gainersRendah,10927600,volumeRendah,1112569400,nilaiRendah,560,freqRendah
+779,VICI,Victoria Care Indonesia Tbk.,Utama,Financials,5,540,0.93%,gainersRendah,1253900,volumeRendah,670864000,nilaiRendah,172,freqRendah
+780,VICO,Victoria Investama Tbk.,Pengembangan,Financials,-6,244,-2.40%,gainersRendah,10357500,volumeRendah,2494199000,nilaiRendah,2020,freqRendah
+781,VINS,Victoria Insurance Tbk.,Pengembangan,Cyclic,-2,155,-1.27%,gainersRendah,11441800,volumeRendah,1870707000,nilaiRendah,650,freqRendah
+782,VIVA,Visi Media Asia Tbk.,Utama,Industrials,0,50,0.00%,gainersRendah,28500,volumeRendah,1425000,nilaiRendah,21,freqRendah
+783,VOKS,Voksel Electric Tbk.,Pengembangan,Financials,0,148,0.00%,gainersRendah,2300,volumeRendah,340500,nilaiRendah,7,freqRendah
+784,VRNA,Verena Multi Finance Tbk.,Pengembangan,Noncyc,0,121,0.00%,gainersRendah,1888500,volumeRendah,230996600,nilaiRendah,305,freqRendah
+785,WAPO,Wahana Pronatural Tbk.,Utama,Infrasctructures,-5,167,-2.91%,gainersRendah,3943600,volumeRendah,659550300,nilaiRendah,1007,freqRendah
+786,WEGE,Wijaya Karya Bangunan Gedung Tbk.,Utama,Transportation & Logistic,-2,165,-1.20%,gainersRendah,4170100,volumeRendah,690262200,nilaiRendah,554,freqRendah
+787,WEHA,WEHA Transportasi Indonesia Tbk.,Akselerasi,Technology,1,112,0.90%,gainersRendah,6521600,volumeRendah,736036100,nilaiRendah,536,freqRendah
+788,WGSH,Wira Global Solusi Tbk.,Pengembangan,Noncyc,1,145,0.69%,gainersRendah,3142900,volumeRendah,456768700,nilaiRendah,919,freqRendah
+789,WICO,Wicaksana Overseas International Tbk.,Utama,Technology,0,400,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+790,WIFI,Solusi Sinergi Digital Tbk.,Utama,Noncyc,0,194,0.00%,gainersRendah,295202300,volumeTinggi volumeSedang volumeRendah,57725957000,nilaiSedang nilaiRendah,9484,freqSedang freqRendah
+791,WIIM,Wismilak Inti Makmur Tbk.,Utama,Infrasctructures,-25,785,-3.09%,gainersRendah,5773600,volumeRendah,4582733500,nilaiRendah,699,freqRendah
+792,WIKA,Wijaya Karya (Persero) Tbk.,Utama,Properties & Real Estate,0,905,0.00%,gainersRendah,8635100,volumeRendah,7785720500,nilaiRendah,1751,freqRendah
+793,WINR,Winner Nusantara Jaya Tbk.,Utama,Energy,0,50,0.00%,gainersRendah,23600,volumeRendah,1180000,nilaiRendah,28,freqRendah
+794,WINS,Wintermar Offshore Marine Tbk.,Pengembangan,Technology,8,366,2.23%,gainersSedang gainersRendah,49396700,volumeSedang volumeRendah,17881960400,nilaiSedang nilaiRendah,6461,freqSedang freqRendah
+795,WIRG,WIR ASIA Tbk.,Utama,Noncyc,6,256,2.40%,gainersSedang gainersRendah,203768300,volumeSedang volumeRendah,54077913800,nilaiSedang nilaiRendah,16563,freqTinggi freqSedang freqRendah
+796,WMPP,Widodo Makmur Perkasa Tbk.,Utama,Noncyc,-1,134,-0.74%,gainersRendah,152216800,volumeSedang volumeRendah,20328206600,nilaiSedang nilaiRendah,736,freqRendah
+797,WMUU,Widodo Makmur Unggas Tbk.,Utama,Financials,-2,110,-1.79%,gainersRendah,37709500,volumeSedang volumeRendah,4195299400,nilaiRendah,802,freqRendah
+798,WOMF,Wahana Ottomitra Multiartha Tbk.,Utama,Cyclic,0,260,0.00%,gainersRendah,818100,volumeRendah,212671200,nilaiRendah,167,freqRendah
+799,WOOD,Integra Indocabinet Tbk.,Pengembangan,Energy,2,400,0.50%,gainersRendah,106816300,volumeSedang volumeRendah,40993743800,nilaiSedang nilaiRendah,5099,freqSedang freqRendah
+800,WOWS,Ginting Jaya Energi Tbk.,Pengembangan,Basic Materials,0,50,0.00%,gainersRendah,2967000,volumeRendah,148350000,nilaiRendah,59,freqRendah
+801,WSBP,Waskita Beton Precast Tbk.,Utama,Infrasctructures,0,95,0.00%,gainersRendah,0,volumeRendah,0,nilaiRendah,0,freqRendah
+802,WSKT,Waskita Karya (Persero) Tbk.,Utama,Basic Materials,-6,464,-1.28%,gainersRendah,11002300,volumeRendah,5125400400,nilaiRendah,1857,freqRendah
+803,WTON,Wijaya Karya Beton Tbk.,Pengembangan,Cyclic,-2,204,-0.97%,gainersRendah,2614300,volumeRendah,533048600,nilaiRendah,350,freqRendah
+804,YELO,Yelooo Integra Datanet Tbk.,Pengembangan,Basic Materials,0,90,0.00%,gainersRendah,6340800,volumeRendah,572197800,nilaiRendah,485,freqRendah
+805,YPAS,Yanaprima Hastapersada Tbk,Pengembangan,Financials,0,655,0.00%,gainersRendah,4100,volumeRendah,2594500,nilaiRendah,16,freqRendah
+806,YULE,Yulie Sekuritas Indonesia Tbk.,Pengembangan,Industrials,10,2100,0.48%,gainersRendah,1300,volumeRendah,2727000,nilaiRendah,7,freqRendah
+807,ZBRA,Dosni Roha Indonesia Tbk.,Pengembangan,Basic Materials,-5,540,-0.92%,gainersRendah,841500,volumeRendah,456072500,nilaiRendah,118,freqRendah
+808,ZINC,Kapuas Prima Coal Tbk.,Pengembangan,Cyclic,-1,50,-1.96%,gainersRendah,96911200,volumeSedang volumeRendah,4869101900,nilaiRendah,1435,freqRendah
+809,ZONE,Mega Perintis Tbk.,Pengembangan,Technology,-5,1135,-0.44%,gainersRendah,1013700,volumeRendah,1146696000,nilaiRendah,117,freqRendah
+810,ZYRX,Zyrexindo Mandiri Buana Tbk.,Pengembangan,Properties & Real Estate,-2,422,-0.47%,gainersRendah,125400,volumeRendah,53130600,nilaiRendah,107,freqRendah
